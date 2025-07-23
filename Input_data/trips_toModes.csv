@@ -1,0 +1,1347 @@
+,Unnamed: 0,traveller_id,wt_css_o,wt_css_d,wt_css,cs_duration,walking_duration,public_duration,bicycling_duration,taxi_duration,purpose,bike_ownership
+0,127,t127,4.0,5.0,9.0,14 mins,1 hour 0 mins,33 mins,17 mins,13 mins,errand,yes
+1,184,t184,8.0,2.0,10.0,10 mins,1 hour 0 mins,30 mins,22 mins,11 mins,commuting,yes
+2,223,t223,3.0,2.0,5.0,10 mins,1 hour 0 mins,33 mins,18 mins,11 mins,leisure,yes
+3,224,t224,3.0,2.0,5.0,10 mins,1 hour 0 mins,33 mins,17 mins,10 mins,commuting,yes
+4,282,t282,7.0,6.0,13.0,17 mins,1 hour 0 mins,32 mins,19 mins,20 mins,errand,yes
+5,397,t397,6.0,7.0,13.0,16 mins,1 hour 0 mins,30 mins,19 mins,20 mins,errand,yes
+6,432,t432,5.0,4.0,9.0,13 mins,1 hour 0 mins,31 mins,17 mins,13 mins,leisure,no
+7,574,t574,2.0,2.0,4.0,9 mins,1 hour 0 mins,41 mins,23 mins,9 mins,errand,yes
+8,682,t682,5.0,4.0,9.0,14 mins,1 hour 0 mins,25 mins,21 mins,15 mins,leisure,yes
+9,758,t758,2.0,5.0,7.0,15 mins,1 hour 0 mins,25 mins,21 mins,16 mins,leisure,yes
+10,797,t797,4.0,5.0,9.0,15 mins,1 hour 0 mins,25 mins,21 mins,17 mins,business,yes
+11,1053,t1133,2.0,8.0,10.0,11 mins,1 hour 0 mins,32 mins,16 mins,10 mins,errand,yes
+12,1054,t1134,2.0,3.0,5.0,11 mins,1 hour 0 mins,38 mins,17 mins,10 mins,leisure,no
+13,1277,t1357,7.0,4.0,11.0,15 mins,1 hour 0 mins,33 mins,17 mins,15 mins,errand,yes
+14,1428,t1508,4.0,7.0,11.0,14 mins,1 hour 0 mins,34 mins,17 mins,14 mins,business,yes
+15,1452,t1532,7.0,2.0,9.0,14 mins,1 hour 0 mins,18 mins,18 mins,14 mins,commuting,yes
+16,124,t124,4.0,7.0,11.0,13 mins,1 hour 1 min,33 mins,17 mins,12 mins,errand,yes
+17,185,t185,8.0,2.0,10.0,10 mins,1 hour 1 min,31 mins,20 mins,11 mins,leisure,yes
+18,422,t422,6.0,6.0,12.0,14 mins,1 hour 1 min,28 mins,18 mins,13 mins,business,yes
+19,566,t566,2.0,5.0,7.0,14 mins,1 hour 1 min,31 mins,16 mins,15 mins,business,yes
+20,681,t681,5.0,2.0,7.0,14 mins,1 hour 1 min,26 mins,20 mins,14 mins,errand,yes
+21,725,t725,7.0,6.0,13.0,14 mins,1 hour 1 min,28 mins,20 mins,15 mins,commuting,yes
+22,833,t833,5.0,2.0,7.0,14 mins,1 hour 1 min,27 mins,18 mins,14 mins,errand,no
+23,915,t915,6.0,7.0,13.0,15 mins,1 hour 1 min,33 mins,19 mins,15 mins,errand,yes
+24,954,t954,6.0,7.0,13.0,15 mins,1 hour 1 min,33 mins,19 mins,15 mins,errand,yes
+25,1091,t1171,2.0,8.0,10.0,11 mins,1 hour 1 min,32 mins,16 mins,9 mins,errand,yes
+26,1092,t1172,2.0,3.0,5.0,11 mins,1 hour 1 min,38 mins,17 mins,10 mins,leisure,yes
+27,1151,t1231,5.0,10.0,15.0,10 mins,1 hour 1 min,24 mins,16 mins,7 mins,leisure,yes
+28,1211,t1291,6.0,6.0,12.0,14 mins,1 hour 1 min,27 mins,19 mins,13 mins,errand,yes
+29,1316,t1396,5.0,7.0,12.0,16 mins,1 hour 1 min,15 mins,19 mins,13 mins,leisure,yes
+30,65,t65,1.0,6.0,7.0,19 mins,1 hour 10 mins,25 mins,22 mins,18 mins,errand,yes
+31,66,t66,1.0,6.0,7.0,19 mins,1 hour 10 mins,25 mins,22 mins,18 mins,errand,yes
+32,112,t112,6.0,5.0,11.0,14 mins,1 hour 10 mins,26 mins,20 mins,14 mins,errand,no
+33,113,t113,6.0,2.0,8.0,14 mins,1 hour 10 mins,27 mins,20 mins,15 mins,errand,yes
+34,115,t115,6.0,4.0,10.0,19 mins,1 hour 10 mins,40 mins,20 mins,16 mins,commuting,yes
+35,153,t153,4.0,6.0,10.0,19 mins,1 hour 10 mins,31 mins,21 mins,15 mins,leisure,yes
+36,163,t163,8.0,7.0,15.0,15 mins,1 hour 10 mins,26 mins,20 mins,17 mins,leisure,yes
+37,203,t203,3.0,8.0,11.0,15 mins,1 hour 10 mins,27 mins,18 mins,14 mins,leisure,yes
+38,253,t253,8.0,4.0,12.0,21 mins,1 hour 10 mins,38 mins,20 mins,22 mins,leisure,yes
+39,381,t381,8.0,5.0,13.0,15 mins,1 hour 10 mins,24 mins,21 mins,18 mins,business,yes
+40,445,t445,5.0,5.0,10.0,16 mins,1 hour 10 mins,38 mins,22 mins,18 mins,commuting,yes
+41,674,t674,5.0,5.0,10.0,17 mins,1 hour 10 mins,31 mins,22 mins,17 mins,leisure,no
+42,739,t739,7.0,4.0,11.0,19 mins,1 hour 10 mins,29 mins,21 mins,16 mins,leisure,no
+43,747,t747,2.0,8.0,10.0,22 mins,1 hour 10 mins,37 mins,19 mins,21 mins,leisure,yes
+44,786,t786,4.0,8.0,12.0,22 mins,1 hour 10 mins,37 mins,19 mins,21 mins,leisure,yes
+45,904,t904,6.0,7.0,13.0,17 mins,1 hour 10 mins,38 mins,19 mins,19 mins,commuting,yes
+46,928,t928,6.0,2.0,8.0,15 mins,1 hour 10 mins,32 mins,20 mins,16 mins,commuting,yes
+47,943,t943,6.0,7.0,13.0,17 mins,1 hour 10 mins,38 mins,19 mins,19 mins,errand,yes
+48,967,t967,6.0,2.0,8.0,15 mins,1 hour 10 mins,33 mins,20 mins,16 mins,commuting,yes
+49,1134,t1214,5.0,8.0,13.0,17 mins,1 hour 10 mins,23 mins,20 mins,17 mins,leisure,yes
+50,1186,t1266,2.0,6.0,8.0,17 mins,1 hour 10 mins,33 mins,19 mins,15 mins,commuting,yes
+51,1187,t1267,2.0,6.0,8.0,17 mins,1 hour 10 mins,34 mins,19 mins,15 mins,commuting,yes
+52,1244,t1324,7.0,8.0,15.0,15 mins,1 hour 10 mins,30 mins,21 mins,15 mins,leisure,yes
+53,1281,t1361,5.0,6.0,11.0,13 mins,1 hour 10 mins,32 mins,20 mins,14 mins,leisure,yes
+54,1319,t1399,2.0,6.0,8.0,13 mins,1 hour 10 mins,33 mins,20 mins,14 mins,errand,yes
+55,1396,t1476,4.0,6.0,10.0,18 mins,1 hour 10 mins,37 mins,20 mins,16 mins,leisure,yes
+56,1412,t1492,4.0,7.0,11.0,17 mins,1 hour 10 mins,31 mins,20 mins,17 mins,errand,no
+57,26,t26,6.0,6.0,12.0,19 mins,1 hour 11 mins,27 mins,22 mins,18 mins,commuting,no
+58,27,t27,6.0,6.0,12.0,19 mins,1 hour 11 mins,27 mins,22 mins,18 mins,leisure,yes
+59,252,t252,8.0,2.0,10.0,21 mins,1 hour 11 mins,38 mins,20 mins,21 mins,errand,no
+60,295,t295,7.0,6.0,13.0,17 mins,1 hour 11 mins,39 mins,21 mins,18 mins,errand,yes
+61,296,t296,7.0,6.0,13.0,17 mins,1 hour 11 mins,40 mins,21 mins,18 mins,commuting,yes
+62,316,t316,7.0,8.0,15.0,16 mins,1 hour 11 mins,24 mins,21 mins,15 mins,errand,yes
+63,407,t407,6.0,7.0,13.0,16 mins,1 hour 11 mins,28 mins,22 mins,20 mins,leisure,yes
+64,556,t556,2.0,6.0,8.0,12 mins,1 hour 11 mins,35 mins,22 mins,16 mins,errand,yes
+65,712,t712,7.0,6.0,13.0,17 mins,1 hour 11 mins,25 mins,24 mins,19 mins,business,yes
+66,930,t930,6.0,7.0,13.0,18 mins,1 hour 11 mins,27 mins,20 mins,16 mins,commuting,yes
+67,1011,t1091,6.0,6.0,12.0,18 mins,1 hour 11 mins,31 mins,23 mins,18 mins,errand,yes
+68,1263,t1343,7.0,6.0,13.0,19 mins,1 hour 11 mins,27 mins,21 mins,17 mins,commuting,yes
+69,1358,t1438,6.0,4.0,10.0,18 mins,1 hour 11 mins,27 mins,20 mins,15 mins,leisure,yes
+70,114,t114,6.0,6.0,12.0,19 mins,1 hour 12 mins,38 mins,22 mins,17 mins,errand,yes
+71,228,t228,3.0,7.0,10.0,16 mins,1 hour 12 mins,35 mins,20 mins,15 mins,commuting,yes
+72,292,t292,7.0,4.0,11.0,21 mins,1 hour 12 mins,37 mins,20 mins,23 mins,errand,yes
+73,356,t356,8.0,3.0,11.0,16 mins,1 hour 12 mins,26 mins,24 mins,14 mins,leisure,yes
+74,403,t403,6.0,2.0,8.0,13 mins,1 hour 12 mins,36 mins,21 mins,17 mins,commuting,yes
+75,748,t748,2.0,7.0,9.0,22 mins,1 hour 12 mins,37 mins,20 mins,22 mins,leisure,no
+76,787,t787,4.0,7.0,11.0,22 mins,1 hour 12 mins,37 mins,20 mins,22 mins,commuting,no
+77,927,t927,6.0,5.0,11.0,15 mins,1 hour 12 mins,35 mins,20 mins,19 mins,commuting,yes
+78,966,t966,6.0,5.0,11.0,15 mins,1 hour 12 mins,36 mins,20 mins,19 mins,leisure,yes
+79,969,t969,6.0,7.0,13.0,18 mins,1 hour 12 mins,28 mins,20 mins,16 mins,commuting,yes
+80,1148,t1228,5.0,6.0,11.0,17 mins,1 hour 12 mins,37 mins,21 mins,18 mins,errand,yes
+81,1149,t1229,5.0,6.0,11.0,17 mins,1 hour 12 mins,38 mins,21 mins,18 mins,commuting,yes
+82,1264,t1344,7.0,6.0,13.0,19 mins,1 hour 12 mins,27 mins,21 mins,18 mins,commuting,yes
+83,291,t291,7.0,2.0,9.0,21 mins,1 hour 13 mins,38 mins,20 mins,21 mins,errand,yes
+84,578,t578,2.0,6.0,8.0,15 mins,1 hour 13 mins,37 mins,19 mins,12 mins,leisure,yes
+85,1169,t1249,2.0,8.0,10.0,18 mins,1 hour 13 mins,38 mins,19 mins,17 mins,leisure,yes
+86,1357,t1437,6.0,6.0,12.0,18 mins,1 hour 13 mins,31 mins,20 mins,16 mins,errand,yes
+87,31,t31,6.0,2.0,8.0,18 mins,1 hour 14 mins,30 mins,23 mins,15 mins,errand,yes
+88,264,t264,8.0,5.0,13.0,18 mins,1 hour 14 mins,39 mins,21 mins,21 mins,leisure,yes
+89,265,t265,8.0,2.0,10.0,18 mins,1 hour 14 mins,37 mins,20 mins,18 mins,errand,yes
+90,362,t362,8.0,5.0,13.0,14 mins,1 hour 14 mins,18 mins,22 mins,15 mins,commuting,no
+91,477,t477,5.0,8.0,13.0,14 mins,1 hour 14 mins,16 mins,19 mins,16 mins,leisure,no
+92,929,t929,6.0,6.0,12.0,18 mins,1 hour 14 mins,30 mins,21 mins,14 mins,errand,yes
+93,1003,t1083,6.0,2.0,8.0,19 mins,1 hour 14 mins,40 mins,21 mins,18 mins,leisure,yes
+94,1026,t1106,6.0,6.0,12.0,16 mins,1 hour 14 mins,46 mins,20 mins,18 mins,leisure,yes
+95,1041,t1121,6.0,2.0,8.0,19 mins,1 hour 14 mins,40 mins,21 mins,18 mins,errand,yes
+96,1131,t1211,5.0,8.0,13.0,18 mins,1 hour 14 mins,37 mins,20 mins,18 mins,leisure,yes
+97,1163,t1243,2.0,6.0,8.0,18 mins,1 hour 14 mins,32 mins,24 mins,17 mins,leisure,no
+98,1190,t1270,2.0,6.0,8.0,21 mins,1 hour 14 mins,31 mins,21 mins,18 mins,leisure,yes
+99,1191,t1271,2.0,6.0,8.0,21 mins,1 hour 14 mins,31 mins,21 mins,18 mins,leisure,yes
+100,1215,t1295,6.0,2.0,8.0,15 mins,1 hour 14 mins,37 mins,19 mins,12 mins,commuting,no
+101,1224,t1304,6.0,6.0,12.0,19 mins,1 hour 14 mins,31 mins,21 mins,14 mins,errand,yes
+102,1245,t1325,7.0,3.0,10.0,15 mins,1 hour 14 mins,33 mins,22 mins,15 mins,errand,yes
+103,30,t30,6.0,5.0,11.0,18 mins,1 hour 15 mins,35 mins,24 mins,15 mins,leisure,no
+104,304,t304,7.0,2.0,9.0,18 mins,1 hour 15 mins,37 mins,20 mins,18 mins,commuting,no
+105,363,t363,8.0,3.0,11.0,14 mins,1 hour 15 mins,19 mins,22 mins,13 mins,business,yes
+106,516,t516,3.0,8.0,11.0,14 mins,1 hour 15 mins,17 mins,20 mins,13 mins,errand,yes
+107,557,t557,2.0,5.0,7.0,12 mins,1 hour 15 mins,35 mins,21 mins,14 mins,commuting,no
+108,611,t611,6.0,6.0,12.0,17 mins,1 hour 15 mins,36 mins,20 mins,19 mins,leisure,yes
+109,612,t612,6.0,6.0,12.0,17 mins,1 hour 15 mins,36 mins,20 mins,19 mins,leisure,yes
+110,700,t700,5.0,4.0,9.0,19 mins,1 hour 15 mins,32 mins,22 mins,17 mins,commuting,yes
+111,968,t968,6.0,6.0,12.0,18 mins,1 hour 15 mins,31 mins,21 mins,15 mins,errand,no
+112,1007,t1087,6.0,2.0,8.0,17 mins,1 hour 15 mins,28 mins,23 mins,18 mins,commuting,yes
+113,1045,t1125,6.0,2.0,8.0,17 mins,1 hour 15 mins,28 mins,23 mins,18 mins,leisure,yes
+114,1076,t1156,2.0,6.0,8.0,13 mins,1 hour 15 mins,25 mins,20 mins,14 mins,errand,yes
+115,1077,t1157,2.0,6.0,8.0,13 mins,1 hour 15 mins,25 mins,20 mins,14 mins,leisure,yes
+116,1114,t1194,2.0,6.0,8.0,13 mins,1 hour 15 mins,26 mins,20 mins,14 mins,leisure,yes
+117,1115,t1195,2.0,6.0,8.0,13 mins,1 hour 15 mins,26 mins,20 mins,14 mins,leisure,yes
+118,1125,t1205,5.0,6.0,11.0,18 mins,1 hour 15 mins,37 mins,25 mins,16 mins,commuting,yes
+119,1170,t1250,2.0,7.0,9.0,18 mins,1 hour 15 mins,38 mins,19 mins,18 mins,errand,yes
+120,1225,t1305,6.0,6.0,12.0,19 mins,1 hour 15 mins,32 mins,21 mins,14 mins,commuting,yes
+121,1306,t1386,5.0,6.0,11.0,16 mins,1 hour 15 mins,23 mins,22 mins,17 mins,business,no
+122,1307,t1387,5.0,6.0,11.0,16 mins,1 hour 15 mins,23 mins,22 mins,17 mins,errand,yes
+123,1344,t1424,2.0,6.0,8.0,16 mins,1 hour 15 mins,23 mins,22 mins,17 mins,leisure,no
+124,1345,t1425,2.0,6.0,8.0,16 mins,1 hour 15 mins,23 mins,22 mins,17 mins,leisure,yes
+125,1373,t1453,6.0,7.0,13.0,17 mins,1 hour 15 mins,29 mins,21 mins,17 mins,business,yes
+126,1411,t1491,4.0,5.0,9.0,17 mins,1 hour 15 mins,32 mins,22 mins,18 mins,errand,yes
+127,70,t70,1.0,2.0,3.0,18 mins,1 hour 16 mins,33 mins,22 mins,18 mins,errand,no
+128,155,t155,4.0,7.0,11.0,19 mins,1 hour 16 mins,30 mins,23 mins,17 mins,leisure,yes
+129,168,t168,8.0,3.0,11.0,14 mins,1 hour 16 mins,25 mins,23 mins,14 mins,leisure,yes
+130,202,t202,3.0,7.0,10.0,15 mins,1 hour 16 mins,27 mins,20 mins,17 mins,commuting,no
+131,303,t303,7.0,5.0,12.0,18 mins,1 hour 16 mins,39 mins,21 mins,21 mins,commuting,yes
+132,406,t406,6.0,5.0,11.0,16 mins,1 hour 16 mins,29 mins,24 mins,22 mins,leisure,yes
+133,442,t442,5.0,2.0,7.0,13 mins,1 hour 16 mins,34 mins,20 mins,15 mins,errand,yes
+134,607,t607,6.0,6.0,12.0,15 mins,1 hour 16 mins,34 mins,21 mins,18 mins,leisure,yes
+135,608,t608,6.0,6.0,12.0,15 mins,1 hour 16 mins,35 mins,21 mins,18 mins,commuting,yes
+136,657,t657,3.0,7.0,10.0,19 mins,1 hour 16 mins,37 mins,20 mins,16 mins,leisure,yes
+137,673,t673,5.0,6.0,11.0,17 mins,1 hour 16 mins,26 mins,25 mins,20 mins,leisure,yes
+138,738,t738,7.0,6.0,13.0,19 mins,1 hour 16 mins,26 mins,22 mins,17 mins,commuting,yes
+139,912,t912,6.0,6.0,12.0,14 mins,1 hour 16 mins,41 mins,21 mins,18 mins,commuting,yes
+140,951,t951,6.0,6.0,12.0,14 mins,1 hour 16 mins,42 mins,21 mins,18 mins,errand,yes
+141,1000,t1080,6.0,2.0,8.0,13 mins,1 hour 16 mins,23 mins,22 mins,18 mins,commuting,yes
+142,1001,t1081,6.0,2.0,8.0,13 mins,1 hour 16 mins,23 mins,23 mins,17 mins,leisure,yes
+143,1002,t1082,6.0,5.0,11.0,19 mins,1 hour 16 mins,44 mins,21 mins,20 mins,commuting,yes
+144,1006,t1086,6.0,5.0,11.0,17 mins,1 hour 16 mins,27 mins,22 mins,18 mins,leisure,yes
+145,1038,t1118,6.0,2.0,8.0,13 mins,1 hour 16 mins,23 mins,22 mins,18 mins,errand,yes
+146,1039,t1119,6.0,2.0,8.0,13 mins,1 hour 16 mins,23 mins,23 mins,17 mins,commuting,yes
+147,1040,t1120,6.0,5.0,11.0,19 mins,1 hour 16 mins,44 mins,21 mins,20 mins,commuting,no
+148,1044,t1124,6.0,5.0,11.0,17 mins,1 hour 16 mins,27 mins,22 mins,18 mins,commuting,yes
+149,1132,t1212,5.0,7.0,12.0,18 mins,1 hour 16 mins,37 mins,21 mins,19 mins,commuting,yes
+150,1152,t1232,5.0,6.0,11.0,21 mins,1 hour 16 mins,33 mins,23 mins,20 mins,leisure,yes
+151,1153,t1233,5.0,6.0,11.0,21 mins,1 hour 16 mins,33 mins,23 mins,20 mins,leisure,yes
+152,1164,t1244,2.0,1.0,3.0,18 mins,1 hour 16 mins,33 mins,24 mins,17 mins,commuting,yes
+153,1256,t1336,7.0,3.0,10.0,20 mins,1 hour 16 mins,37 mins,20 mins,18 mins,leisure,yes
+154,1311,t1391,5.0,2.0,7.0,17 mins,1 hour 16 mins,23 mins,23 mins,16 mins,leisure,no
+155,1436,t1516,7.0,4.0,11.0,18 mins,1 hour 16 mins,26 mins,23 mins,17 mins,errand,yes
+156,69,t69,1.0,5.0,6.0,18 mins,1 hour 17 mins,39 mins,23 mins,18 mins,leisure,yes
+157,317,t317,7.0,3.0,10.0,16 mins,1 hour 17 mins,25 mins,24 mins,16 mins,commuting,yes
+158,511,t511,3.0,8.0,11.0,14 mins,1 hour 17 mins,27 mins,21 mins,13 mins,leisure,yes
+159,645,t645,3.0,7.0,10.0,19 mins,1 hour 17 mins,38 mins,21 mins,18 mins,commuting,yes
+160,874,t874,7.0,3.0,10.0,18 mins,1 hour 17 mins,38 mins,21 mins,18 mins,leisure,yes
+161,1126,t1206,5.0,1.0,6.0,18 mins,1 hour 17 mins,37 mins,25 mins,17 mins,commuting,no
+162,1196,t1276,2.0,5.0,7.0,17 mins,1 hour 17 mins,35 mins,24 mins,16 mins,leisure,yes
+163,1310,t1390,5.0,5.0,10.0,17 mins,1 hour 17 mins,26 mins,23 mins,18 mins,leisure,yes
+164,1459,t1539,7.0,10.0,17.0,18 mins,1 hour 17 mins,30 mins,23 mins,12 mins,leisure,no
+165,116,t116,6.0,7.0,13.0,19 mins,1 hour 18 mins,32 mins,24 mins,18 mins,commuting,yes
+166,173,t173,8.0,7.0,15.0,17 mins,1 hour 18 mins,37 mins,26 mins,17 mins,errand,yes
+167,583,t583,2.0,4.0,6.0,19 mins,1 hour 18 mins,41 mins,24 mins,16 mins,leisure,yes
+168,1083,t1163,2.0,2.0,4.0,15 mins,1 hour 18 mins,44 mins,22 mins,13 mins,leisure,yes
+169,1158,t1238,5.0,5.0,10.0,17 mins,1 hour 18 mins,27 mins,24 mins,19 mins,commuting,yes
+170,1435,t1515,7.0,6.0,13.0,18 mins,1 hour 18 mins,29 mins,24 mins,18 mins,commuting,yes
+171,1458,t1538,7.0,11.0,18.0,18 mins,1 hour 18 mins,31 mins,22 mins,12 mins,business,yes
+172,167,t167,8.0,5.0,13.0,14 mins,1 hour 19 mins,24 mins,26 mins,17 mins,leisure,yes
+173,656,t656,3.0,6.0,9.0,19 mins,1 hour 19 mins,34 mins,21 mins,15 mins,errand,no
+174,835,t835,5.0,3.0,8.0,18 mins,1 hour 19 mins,38 mins,22 mins,17 mins,errand,yes
+175,889,t889,7.0,2.0,9.0,20 mins,1 hour 19 mins,29 mins,23 mins,19 mins,business,yes
+176,1121,t1201,2.0,2.0,4.0,15 mins,1 hour 19 mins,44 mins,22 mins,13 mins,leisure,yes
+177,1185,t1265,2.0,7.0,9.0,22 mins,1 hour 19 mins,30 mins,22 mins,18 mins,errand,yes
+178,1217,t1297,6.0,3.0,9.0,20 mins,1 hour 19 mins,34 mins,19 mins,16 mins,leisure,yes
+179,1326,t1406,2.0,8.0,10.0,17 mins,1 hour 19 mins,17 mins,23 mins,16 mins,leisure,no
+180,1346,t1426,2.0,2.0,4.0,14 mins,1 hour 19 mins,38 mins,24 mins,14 mins,leisure,yes
+181,1349,t1429,2.0,2.0,4.0,17 mins,1 hour 19 mins,33 mins,23 mins,16 mins,commuting,yes
+182,1408,t1488,4.0,2.0,6.0,18 mins,1 hour 19 mins,41 mins,23 mins,17 mins,commuting,yes
+183,1451,t1531,7.0,7.0,14.0,17 mins,1 hour 19 mins,26 mins,23 mins,18 mins,commuting,yes
+184,38,t38,6.0,7.0,13.0,16 mins,1 hour 2 mins,25 mins,19 mins,16 mins,errand,yes
+185,88,t88,6.0,5.0,11.0,14 mins,1 hour 2 mins,37 mins,18 mins,14 mins,errand,yes
+186,188,t188,8.0,6.0,14.0,16 mins,1 hour 2 mins,26 mins,15 mins,10 mins,leisure,yes
+187,221,t221,3.0,6.0,9.0,15 mins,1 hour 2 mins,38 mins,18 mins,14 mins,commuting,yes
+188,222,t222,3.0,6.0,9.0,15 mins,1 hour 2 mins,38 mins,18 mins,14 mins,errand,yes
+189,315,t315,7.0,4.0,11.0,13 mins,1 hour 2 mins,30 mins,17 mins,13 mins,leisure,yes
+190,431,t431,5.0,6.0,11.0,13 mins,1 hour 2 mins,34 mins,17 mins,14 mins,leisure,no
+191,494,t494,5.0,6.0,11.0,10 mins,1 hour 2 mins,21 mins,15 mins,14 mins,commuting,no
+192,495,t495,5.0,6.0,11.0,10 mins,1 hour 2 mins,21 mins,15 mins,14 mins,commuting,yes
+193,724,t724,7.0,6.0,13.0,14 mins,1 hour 2 mins,28 mins,20 mins,15 mins,errand,yes
+194,1023,t1103,6.0,5.0,11.0,9 mins,1 hour 2 mins,25 mins,18 mins,15 mins,errand,yes
+195,1150,t1230,5.0,11.0,16.0,10 mins,1 hour 2 mins,25 mins,14 mins,7 mins,errand,yes
+196,1468,t1548,7.0,5.0,12.0,15 mins,1 hour 2 mins,16 mins,18 mins,13 mins,commuting,yes
+197,122,t122,4.0,8.0,12.0,24 mins,1 hour 20 mins,46 mins,22 mins,21 mins,leisure,yes
+198,386,t386,8.0,2.0,10.0,19 mins,1 hour 20 mins,18 mins,24 mins,17 mins,commuting,yes
+199,472,t472,5.0,8.0,13.0,14 mins,1 hour 20 mins,28 mins,22 mins,17 mins,leisure,yes
+200,476,t476,5.0,7.0,12.0,14 mins,1 hour 20 mins,22 mins,20 mins,17 mins,leisure,yes
+201,579,t579,2.0,7.0,9.0,15 mins,1 hour 20 mins,50 mins,22 mins,16 mins,commuting,yes
+202,582,t582,2.0,6.0,8.0,19 mins,1 hour 20 mins,36 mins,24 mins,17 mins,leisure,yes
+203,644,t644,3.0,5.0,8.0,19 mins,1 hour 20 mins,38 mins,22 mins,20 mins,errand,yes
+204,706,t706,7.0,8.0,15.0,17 mins,1 hour 20 mins,40 mins,27 mins,15 mins,leisure,yes
+205,740,t740,7.0,7.0,14.0,19 mins,1 hour 20 mins,23 mins,24 mins,18 mins,errand,yes
+206,1082,t1162,2.0,5.0,7.0,15 mins,1 hour 20 mins,43 mins,22 mins,14 mins,leisure,yes
+207,1120,t1200,2.0,5.0,7.0,15 mins,1 hour 20 mins,44 mins,22 mins,14 mins,commuting,yes
+208,1197,t1277,2.0,2.0,4.0,17 mins,1 hour 20 mins,34 mins,24 mins,17 mins,commuting,yes
+209,1347,t1427,2.0,2.0,4.0,14 mins,1 hour 20 mins,38 mins,23 mins,14 mins,commuting,yes
+210,1348,t1428,2.0,5.0,7.0,17 mins,1 hour 20 mins,27 mins,24 mins,19 mins,leisure,yes
+211,1372,t1452,6.0,5.0,11.0,17 mins,1 hour 20 mins,30 mins,23 mins,19 mins,errand,yes
+212,187,t187,8.0,2.0,10.0,20 mins,1 hour 21 mins,38 mins,24 mins,18 mins,business,no
+213,237,t237,8.0,4.0,12.0,25 mins,1 hour 21 mins,51 mins,24 mins,22 mins,commuting,yes
+214,323,t323,7.0,5.0,12.0,14 mins,1 hour 21 mins,22 mins,23 mins,18 mins,commuting,yes
+215,324,t324,7.0,3.0,10.0,14 mins,1 hour 21 mins,22 mins,24 mins,16 mins,errand,yes
+216,385,t385,8.0,5.0,13.0,19 mins,1 hour 21 mins,17 mins,24 mins,17 mins,errand,no
+217,515,t515,3.0,7.0,10.0,14 mins,1 hour 21 mins,22 mins,21 mins,14 mins,leisure,yes
+218,642,t642,3.0,2.0,5.0,19 mins,1 hour 21 mins,39 mins,23 mins,18 mins,leisure,yes
+219,643,t643,3.0,4.0,7.0,19 mins,1 hour 21 mins,39 mins,23 mins,20 mins,errand,yes
+220,699,t699,5.0,6.0,11.0,19 mins,1 hour 21 mins,27 mins,23 mins,18 mins,leisure,yes
+221,757,t757,2.0,3.0,5.0,19 mins,1 hour 21 mins,40 mins,23 mins,18 mins,commuting,no
+222,796,t796,4.0,3.0,7.0,19 mins,1 hour 21 mins,39 mins,22 mins,18 mins,errand,yes
+223,888,t888,7.0,5.0,12.0,20 mins,1 hour 21 mins,34 mins,23 mins,22 mins,errand,yes
+224,1159,t1239,5.0,2.0,7.0,17 mins,1 hour 21 mins,28 mins,25 mins,20 mins,leisure,yes
+225,1254,t1334,7.0,2.0,9.0,15 mins,1 hour 21 mins,39 mins,23 mins,16 mins,leisure,yes
+226,1288,t1368,5.0,8.0,13.0,17 mins,1 hour 21 mins,16 mins,23 mins,17 mins,commuting,yes
+227,1308,t1388,5.0,2.0,7.0,14 mins,1 hour 21 mins,34 mins,24 mins,14 mins,errand,no
+228,1309,t1389,5.0,2.0,7.0,14 mins,1 hour 21 mins,35 mins,24 mins,14 mins,errand,yes
+229,1369,t1449,6.0,2.0,8.0,18 mins,1 hour 21 mins,36 mins,25 mins,16 mins,errand,yes
+230,123,t123,4.0,7.0,11.0,24 mins,1 hour 22 mins,46 mins,23 mins,22 mins,errand,yes
+231,171,t171,8.0,3.0,11.0,18 mins,1 hour 22 mins,47 mins,24 mins,17 mins,commuting,yes
+232,207,t207,3.0,3.0,6.0,14 mins,1 hour 22 mins,31 mins,23 mins,14 mins,leisure,yes
+233,850,t850,5.0,2.0,7.0,20 mins,1 hour 22 mins,29 mins,24 mins,19 mins,errand,yes
+234,1147,t1227,5.0,7.0,12.0,22 mins,1 hour 22 mins,34 mins,23 mins,21 mins,leisure,yes
+235,1184,t1264,2.0,5.0,7.0,22 mins,1 hour 22 mins,30 mins,23 mins,20 mins,leisure,yes
+236,1255,t1335,7.0,6.0,13.0,20 mins,1 hour 22 mins,49 mins,22 mins,17 mins,errand,yes
+237,83,t83,6.0,8.0,14.0,24 mins,1 hour 23 mins,45 mins,23 mins,23 mins,commuting,yes
+238,172,t172,8.0,5.0,13.0,17 mins,1 hour 23 mins,39 mins,28 mins,19 mins,errand,yes
+239,186,t186,8.0,5.0,13.0,20 mins,1 hour 23 mins,43 mins,27 mins,20 mins,errand,yes
+240,276,t276,7.0,4.0,11.0,25 mins,1 hour 23 mins,51 mins,24 mins,23 mins,leisure,yes
+241,298,t298,7.0,10.0,17.0,17 mins,1 hour 23 mins,26 mins,24 mins,21 mins,leisure,yes
+242,474,t474,5.0,8.0,13.0,24 mins,1 hour 23 mins,36 mins,26 mins,26 mins,leisure,yes
+243,512,t512,3.0,3.0,6.0,14 mins,1 hour 23 mins,28 mins,24 mins,14 mins,errand,yes
+244,572,t572,2.0,6.0,8.0,17 mins,1 hour 23 mins,39 mins,24 mins,19 mins,errand,yes
+245,573,t573,2.0,6.0,8.0,17 mins,1 hour 23 mins,39 mins,24 mins,19 mins,errand,yes
+246,618,t618,6.0,7.0,13.0,19 mins,1 hour 23 mins,46 mins,21 mins,16 mins,leisure,yes
+247,628,t628,3.0,8.0,11.0,20 mins,1 hour 23 mins,45 mins,26 mins,18 mins,leisure,yes
+248,772,t772,2.0,2.0,4.0,20 mins,1 hour 23 mins,31 mins,24 mins,19 mins,leisure,yes
+249,811,t811,4.0,2.0,6.0,20 mins,1 hour 23 mins,30 mins,24 mins,19 mins,errand,yes
+250,1025,t1105,6.0,2.0,8.0,18 mins,1 hour 23 mins,34 mins,25 mins,20 mins,errand,yes
+251,1067,t1147,2.0,7.0,9.0,14 mins,1 hour 23 mins,36 mins,22 mins,12 mins,errand,yes
+252,1105,t1185,2.0,7.0,9.0,14 mins,1 hour 23 mins,36 mins,22 mins,13 mins,errand,no
+253,1167,t1247,2.0,8.0,10.0,20 mins,1 hour 23 mins,39 mins,23 mins,18 mins,business,yes
+254,1182,t1262,2.0,2.0,4.0,21 mins,1 hour 23 mins,32 mins,23 mins,18 mins,errand,yes
+255,1183,t1263,2.0,4.0,6.0,21 mins,1 hour 23 mins,31 mins,23 mins,20 mins,errand,no
+256,84,t84,6.0,7.0,13.0,24 mins,1 hour 24 mins,45 mins,23 mins,24 mins,errand,yes
+257,206,t206,3.0,5.0,8.0,14 mins,1 hour 24 mins,30 mins,26 mins,18 mins,errand,yes
+258,212,t212,3.0,7.0,10.0,17 mins,1 hour 24 mins,41 mins,26 mins,17 mins,leisure,yes
+259,236,t236,8.0,6.0,14.0,25 mins,1 hour 24 mins,54 mins,23 mins,23 mins,errand,yes
+260,245,t245,8.0,5.0,13.0,24 mins,1 hour 24 mins,36 mins,26 mins,25 mins,errand,yes
+261,258,t258,8.0,11.0,19.0,17 mins,1 hour 24 mins,27 mins,23 mins,20 mins,leisure,no
+262,259,t259,8.0,10.0,18.0,17 mins,1 hour 24 mins,26 mins,24 mins,20 mins,errand,yes
+263,297,t297,7.0,11.0,18.0,17 mins,1 hour 24 mins,27 mins,23 mins,20 mins,leisure,no
+264,606,t606,6.0,7.0,13.0,19 mins,1 hour 24 mins,39 mins,23 mins,21 mins,leisure,yes
+265,813,t813,4.0,7.0,11.0,20 mins,1 hour 24 mins,27 mins,23 mins,19 mins,errand,no
+266,849,t849,5.0,5.0,10.0,20 mins,1 hour 24 mins,33 mins,24 mins,22 mins,errand,yes
+267,891,t891,7.0,7.0,14.0,23 mins,1 hour 24 mins,26 mins,24 mins,21 mins,commuting,yes
+268,898,t898,6.0,1.0,7.0,16 mins,1 hour 24 mins,31 mins,23 mins,17 mins,commuting,yes
+269,937,t937,6.0,1.0,7.0,16 mins,1 hour 24 mins,31 mins,23 mins,17 mins,leisure,yes
+270,981,t981,11.0,8.0,19.0,17 mins,1 hour 24 mins,25 mins,26 mins,17 mins,leisure,no
+271,982,t982,11.0,7.0,18.0,17 mins,1 hour 24 mins,25 mins,26 mins,18 mins,errand,yes
+272,1260,t1340,7.0,4.0,11.0,20 mins,1 hour 24 mins,26 mins,25 mins,21 mins,errand,yes
+273,1419,t1499,4.0,11.0,15.0,18 mins,1 hour 24 mins,32 mins,24 mins,15 mins,errand,yes
+274,1420,t1500,4.0,10.0,14.0,18 mins,1 hour 24 mins,31 mins,25 mins,15 mins,leisure,yes
+275,1450,t1530,7.0,5.0,12.0,17 mins,1 hour 24 mins,26 mins,26 mins,20 mins,leisure,yes
+276,22,t22,6.0,6.0,12.0,16 mins,1 hour 25 mins,26 mins,23 mins,17 mins,leisure,yes
+277,23,t23,6.0,6.0,12.0,16 mins,1 hour 25 mins,27 mins,23 mins,17 mins,leisure,yes
+278,60,t60,1.0,7.0,8.0,20 mins,1 hour 25 mins,27 mins,25 mins,20 mins,leisure,yes
+279,61,t61,1.0,6.0,7.0,16 mins,1 hour 25 mins,24 mins,22 mins,17 mins,errand,yes
+280,62,t62,1.0,6.0,7.0,16 mins,1 hour 25 mins,24 mins,22 mins,17 mins,leisure,no
+281,246,t246,8.0,3.0,11.0,24 mins,1 hour 25 mins,36 mins,27 mins,23 mins,commuting,yes
+282,275,t275,7.0,6.0,13.0,25 mins,1 hour 25 mins,54 mins,24 mins,24 mins,commuting,yes
+283,337,t337,7.0,10.0,17.0,19 mins,1 hour 25 mins,18 mins,25 mins,16 mins,leisure,yes
+284,346,t346,7.0,5.0,12.0,19 mins,1 hour 25 mins,18 mins,24 mins,19 mins,leisure,yes
+285,347,t347,7.0,2.0,9.0,19 mins,1 hour 25 mins,18 mins,24 mins,19 mins,errand,yes
+286,441,t441,5.0,3.0,8.0,17 mins,1 hour 25 mins,39 mins,25 mins,18 mins,leisure,yes
+287,475,t475,5.0,7.0,12.0,24 mins,1 hour 25 mins,36 mins,26 mins,27 mins,commuting,yes
+288,513,t513,3.0,8.0,11.0,24 mins,1 hour 25 mins,37 mins,27 mins,23 mins,leisure,yes
+289,518,t518,3.0,5.0,8.0,17 mins,1 hour 25 mins,37 mins,25 mins,17 mins,errand,yes
+290,617,t617,6.0,6.0,12.0,19 mins,1 hour 25 mins,44 mins,23 mins,15 mins,leisure,yes
+291,667,t667,5.0,8.0,13.0,17 mins,1 hour 25 mins,41 mins,30 mins,16 mins,leisure,yes
+292,701,t701,5.0,7.0,12.0,19 mins,1 hour 25 mins,23 mins,25 mins,19 mins,leisure,yes
+293,730,t730,7.0,2.0,9.0,14 mins,1 hour 25 mins,38 mins,25 mins,14 mins,errand,no
+294,731,t731,7.0,2.0,9.0,14 mins,1 hour 25 mins,38 mins,26 mins,14 mins,commuting,no
+295,771,t771,2.0,5.0,7.0,20 mins,1 hour 25 mins,36 mins,25 mins,22 mins,commuting,yes
+296,774,t774,2.0,7.0,9.0,20 mins,1 hour 25 mins,27 mins,23 mins,19 mins,errand,yes
+297,810,t810,4.0,5.0,9.0,20 mins,1 hour 25 mins,35 mins,24 mins,22 mins,errand,yes
+298,820,t820,5.0,1.0,6.0,19 mins,1 hour 25 mins,25 mins,24 mins,19 mins,commuting,no
+299,859,t859,7.0,1.0,8.0,19 mins,1 hour 25 mins,29 mins,26 mins,20 mins,leisure,yes
+300,873,t873,7.0,6.0,13.0,18 mins,1 hour 25 mins,41 mins,23 mins,21 mins,commuting,yes
+301,897,t897,6.0,6.0,12.0,16 mins,1 hour 25 mins,33 mins,24 mins,18 mins,errand,no
+302,936,t936,6.0,6.0,12.0,16 mins,1 hour 25 mins,36 mins,24 mins,18 mins,commuting,yes
+303,1129,t1209,5.0,8.0,13.0,20 mins,1 hour 25 mins,37 mins,25 mins,21 mins,errand,yes
+304,1145,t1225,5.0,4.0,9.0,21 mins,1 hour 25 mins,35 mins,25 mins,22 mins,leisure,yes
+305,1146,t1226,5.0,5.0,10.0,22 mins,1 hour 25 mins,33 mins,24 mins,23 mins,commuting,no
+306,1216,t1296,6.0,6.0,12.0,20 mins,1 hour 25 mins,45 mins,21 mins,15 mins,commuting,yes
+307,1259,t1339,7.0,2.0,9.0,20 mins,1 hour 25 mins,27 mins,24 mins,20 mins,errand,yes
+308,1262,t1342,7.0,7.0,14.0,22 mins,1 hour 25 mins,25 mins,25 mins,20 mins,errand,no
+309,1287,t1367,5.0,7.0,12.0,17 mins,1 hour 25 mins,16 mins,23 mins,20 mins,leisure,no
+310,1325,t1405,2.0,7.0,9.0,17 mins,1 hour 25 mins,16 mins,24 mins,20 mins,leisure,yes
+311,1381,t1461,6.0,10.0,16.0,18 mins,1 hour 25 mins,32 mins,23 mins,13 mins,leisure,no
+312,21,t21,6.0,7.0,13.0,20 mins,1 hour 26 mins,29 mins,25 mins,21 mins,commuting,no
+313,59,t59,1.0,5.0,6.0,20 mins,1 hour 26 mins,24 mins,26 mins,22 mins,commuting,yes
+314,284,t284,7.0,5.0,12.0,24 mins,1 hour 26 mins,36 mins,27 mins,26 mins,leisure,yes
+315,336,t336,7.0,11.0,18.0,19 mins,1 hour 26 mins,19 mins,24 mins,16 mins,errand,yes
+316,473,t473,5.0,3.0,8.0,14 mins,1 hour 26 mins,34 mins,25 mins,18 mins,commuting,yes
+317,584,t584,2.0,7.0,9.0,19 mins,1 hour 26 mins,35 mins,26 mins,18 mins,errand,yes
+318,641,t641,3.0,7.0,10.0,21 mins,1 hour 26 mins,39 mins,22 mins,20 mins,leisure,yes
+319,658,t658,3.0,5.0,8.0,23 mins,1 hour 26 mins,30 mins,24 mins,22 mins,commuting,yes
+320,707,t707,7.0,3.0,10.0,17 mins,1 hour 26 mins,36 mins,29 mins,17 mins,errand,yes
+321,718,t718,7.0,3.0,10.0,21 mins,1 hour 26 mins,40 mins,23 mins,19 mins,errand,yes
+322,819,t819,5.0,6.0,11.0,19 mins,1 hour 26 mins,28 mins,27 mins,20 mins,errand,no
+323,858,t858,7.0,6.0,13.0,19 mins,1 hour 26 mins,31 mins,27 mins,21 mins,errand,yes
+324,983,t983,11.0,7.0,18.0,20 mins,1 hour 26 mins,19 mins,28 mins,18 mins,leisure,yes
+325,1144,t1224,5.0,2.0,7.0,21 mins,1 hour 26 mins,35 mins,25 mins,21 mins,errand,yes
+326,1295,t1375,5.0,3.0,8.0,21 mins,1 hour 26 mins,31 mins,26 mins,20 mins,errand,yes
+327,1380,t1460,6.0,11.0,17.0,18 mins,1 hour 26 mins,32 mins,22 mins,13 mins,errand,yes
+328,20,t20,6.0,5.0,11.0,20 mins,1 hour 27 mins,26 mins,26 mins,23 mins,business,no
+329,56,t56,1.0,7.0,8.0,20 mins,1 hour 27 mins,26 mins,22 mins,20 mins,leisure,yes
+330,226,t226,3.0,2.0,5.0,20 mins,1 hour 27 mins,39 mins,24 mins,19 mins,leisure,yes
+331,285,t285,7.0,3.0,10.0,24 mins,1 hour 27 mins,36 mins,27 mins,23 mins,errand,no
+332,514,t514,3.0,7.0,10.0,24 mins,1 hour 27 mins,37 mins,27 mins,24 mins,errand,yes
+333,703,t703,7.0,1.0,8.0,20 mins,1 hour 27 mins,26 mins,23 mins,19 mins,errand,yes
+334,812,t812,4.0,6.0,10.0,20 mins,1 hour 27 mins,30 mins,24 mins,16 mins,errand,no
+335,834,t834,5.0,6.0,11.0,18 mins,1 hour 27 mins,41 mins,24 mins,20 mins,errand,yes
+336,1221,t1301,6.0,4.0,10.0,20 mins,1 hour 27 mins,37 mins,24 mins,17 mins,leisure,yes
+337,1447,t1527,7.0,2.0,9.0,18 mins,1 hour 27 mins,34 mins,28 mins,18 mins,errand,yes
+338,17,t17,6.0,7.0,13.0,20 mins,1 hour 28 mins,28 mins,24 mins,21 mins,leisure,yes
+339,210,t210,3.0,3.0,6.0,18 mins,1 hour 28 mins,48 mins,25 mins,18 mins,leisure,yes
+340,440,t440,5.0,5.0,10.0,17 mins,1 hour 28 mins,38 mins,27 mins,21 mins,commuting,yes
+341,479,t479,5.0,5.0,10.0,17 mins,1 hour 28 mins,37 mins,24 mins,21 mins,leisure,yes
+342,604,t604,6.0,4.0,10.0,19 mins,1 hour 28 mins,40 mins,25 mins,23 mins,commuting,yes
+343,605,t605,6.0,5.0,11.0,19 mins,1 hour 28 mins,36 mins,24 mins,23 mins,leisure,yes
+344,773,t773,2.0,6.0,8.0,20 mins,1 hour 28 mins,31 mins,25 mins,16 mins,leisure,no
+345,890,t890,7.0,6.0,13.0,23 mins,1 hour 28 mins,29 mins,25 mins,17 mins,leisure,yes
+346,1058,t1138,2.0,8.0,10.0,17 mins,1 hour 28 mins,29 mins,23 mins,16 mins,commuting,yes
+347,1066,t1146,2.0,5.0,7.0,14 mins,1 hour 28 mins,38 mins,25 mins,14 mins,errand,yes
+348,1096,t1176,2.0,8.0,10.0,17 mins,1 hour 28 mins,29 mins,23 mins,16 mins,commuting,no
+349,1104,t1184,2.0,5.0,7.0,14 mins,1 hour 28 mins,37 mins,25 mins,14 mins,errand,yes
+350,1220,t1300,6.0,2.0,8.0,20 mins,1 hour 28 mins,29 mins,24 mins,16 mins,leisure,yes
+351,1223,t1303,6.0,7.0,13.0,22 mins,1 hour 28 mins,28 mins,25 mins,16 mins,leisure,yes
+352,58,t58,1.0,4.0,5.0,20 mins,1 hour 29 mins,28 mins,26 mins,22 mins,leisure,yes
+353,161,t161,8.0,8.0,16.0,21 mins,1 hour 29 mins,38 mins,26 mins,21 mins,errand,yes
+354,211,t211,3.0,5.0,8.0,17 mins,1 hour 29 mins,42 mins,28 mins,19 mins,errand,yes
+355,225,t225,3.0,5.0,8.0,20 mins,1 hour 29 mins,44 mins,25 mins,22 mins,leisure,yes
+356,379,t379,8.0,2.0,10.0,17 mins,1 hour 29 mins,26 mins,27 mins,19 mins,leisure,yes
+357,603,t603,6.0,2.0,8.0,19 mins,1 hour 29 mins,40 mins,25 mins,21 mins,commuting,yes
+358,659,t659,3.0,2.0,5.0,23 mins,1 hour 29 mins,31 mins,25 mins,22 mins,commuting,yes
+359,702,t702,7.0,6.0,13.0,20 mins,1 hour 29 mins,28 mins,26 mins,20 mins,errand,no
+360,742,t742,2.0,1.0,3.0,21 mins,1 hour 29 mins,30 mins,28 mins,20 mins,errand,yes
+361,756,t756,2.0,6.0,8.0,19 mins,1 hour 29 mins,42 mins,25 mins,21 mins,leisure,yes
+362,781,t781,4.0,1.0,5.0,21 mins,1 hour 29 mins,30 mins,27 mins,20 mins,errand,yes
+363,795,t795,4.0,6.0,10.0,19 mins,1 hour 29 mins,42 mins,24 mins,21 mins,leisure,yes
+364,1333,t1413,2.0,3.0,5.0,21 mins,1 hour 29 mins,32 mins,27 mins,20 mins,commuting,yes
+365,76,t76,1.0,4.0,5.0,16 mins,1 hour 3 mins,32 mins,17 mins,16 mins,commuting,no
+366,77,t77,1.0,7.0,8.0,16 mins,1 hour 3 mins,23 mins,18 mins,16 mins,errand,yes
+367,126,t126,4.0,6.0,10.0,14 mins,1 hour 3 mins,29 mins,19 mins,15 mins,errand,yes
+368,1016,t1096,6.0,3.0,9.0,15 mins,1 hour 3 mins,36 mins,23 mins,15 mins,leisure,yes
+369,1072,t1152,2.0,6.0,8.0,13 mins,1 hour 3 mins,28 mins,17 mins,11 mins,leisure,yes
+370,1073,t1153,2.0,6.0,8.0,13 mins,1 hour 3 mins,29 mins,16 mins,12 mins,leisure,no
+371,1110,t1190,2.0,6.0,8.0,13 mins,1 hour 3 mins,28 mins,17 mins,10 mins,leisure,yes
+372,1111,t1191,2.0,6.0,8.0,13 mins,1 hour 3 mins,29 mins,16 mins,11 mins,leisure,yes
+373,1205,t1285,6.0,8.0,14.0,15 mins,1 hour 3 mins,23 mins,18 mins,11 mins,errand,yes
+374,1238,t1318,6.0,4.0,10.0,15 mins,1 hour 3 mins,27 mins,16 mins,14 mins,commuting,no
+375,1251,t1331,7.0,5.0,12.0,14 mins,1 hour 3 mins,31 mins,19 mins,15 mins,leisure,yes
+376,1395,t1475,4.0,1.0,5.0,14 mins,1 hour 3 mins,29 mins,18 mins,15 mins,commuting,yes
+377,1427,t1507,4.0,6.0,10.0,14 mins,1 hour 3 mins,29 mins,17 mins,14 mins,commuting,yes
+378,1433,t1513,7.0,6.0,13.0,14 mins,1 hour 3 mins,25 mins,18 mins,15 mins,commuting,yes
+379,1434,t1514,7.0,1.0,8.0,14 mins,1 hour 3 mins,23 mins,17 mins,14 mins,leisure,yes
+380,19,t19,6.0,4.0,10.0,20 mins,1 hour 30 mins,30 mins,27 mins,22 mins,leisure,yes
+381,57,t57,1.0,2.0,3.0,20 mins,1 hour 30 mins,28 mins,26 mins,20 mins,leisure,yes
+382,170,t170,8.0,6.0,14.0,18 mins,1 hour 30 mins,49 mins,26 mins,20 mins,leisure,yes
+383,238,t238,8.0,8.0,16.0,22 mins,1 hour 30 mins,41 mins,27 mins,21 mins,leisure,yes
+384,380,t380,8.0,2.0,10.0,17 mins,1 hour 30 mins,26 mins,28 mins,19 mins,leisure,yes
+385,402,t402,6.0,3.0,9.0,17 mins,1 hour 30 mins,28 mins,26 mins,21 mins,errand,no
+386,629,t629,3.0,3.0,6.0,20 mins,1 hour 30 mins,41 mins,29 mins,19 mins,errand,yes
+387,691,t691,5.0,2.0,7.0,14 mins,1 hour 30 mins,39 mins,27 mins,15 mins,commuting,yes
+388,692,t692,5.0,2.0,7.0,14 mins,1 hour 30 mins,39 mins,27 mins,15 mins,leisure,no
+389,780,t780,4.0,6.0,10.0,21 mins,1 hour 30 mins,32 mins,28 mins,21 mins,leisure,yes
+390,852,t852,5.0,7.0,12.0,23 mins,1 hour 30 mins,31 mins,24 mins,22 mins,errand,yes
+391,1168,t1248,2.0,3.0,5.0,20 mins,1 hour 30 mins,39 mins,27 mins,20 mins,leisure,yes
+392,1261,t1341,7.0,5.0,12.0,22 mins,1 hour 30 mins,31 mins,26 mins,21 mins,errand,no
+393,18,t18,6.0,2.0,8.0,20 mins,1 hour 31 mins,31 mins,27 mins,20 mins,errand,yes
+394,162,t162,8.0,7.0,15.0,21 mins,1 hour 31 mins,38 mins,27 mins,22 mins,errand,yes
+395,376,t376,8.0,10.0,18.0,19 mins,1 hour 31 mins,23 mins,29 mins,22 mins,errand,yes
+396,415,t415,6.0,10.0,16.0,16 mins,1 hour 31 mins,29 mins,26 mins,16 mins,business,yes
+397,517,t517,3.0,6.0,9.0,17 mins,1 hour 31 mins,39 mins,26 mins,20 mins,errand,no
+398,589,t589,6.0,8.0,14.0,20 mins,1 hour 31 mins,43 mins,27 mins,21 mins,commuting,yes
+399,640,t640,3.0,5.0,8.0,21 mins,1 hour 31 mins,37 mins,24 mins,22 mins,leisure,yes
+400,668,t668,5.0,3.0,8.0,17 mins,1 hour 31 mins,37 mins,33 mins,18 mins,errand,yes
+401,679,t679,5.0,3.0,8.0,21 mins,1 hour 31 mins,39 mins,24 mins,20 mins,errand,yes
+402,741,t741,2.0,6.0,8.0,21 mins,1 hour 31 mins,33 mins,28 mins,21 mins,errand,yes
+403,1060,t1140,2.0,5.0,7.0,14 mins,1 hour 31 mins,44 mins,24 mins,15 mins,leisure,no
+404,55,t55,1.0,5.0,6.0,20 mins,1 hour 32 mins,27 mins,25 mins,22 mins,errand,yes
+405,277,t277,7.0,8.0,15.0,22 mins,1 hour 32 mins,41 mins,27 mins,21 mins,leisure,yes
+406,375,t375,8.0,11.0,19.0,19 mins,1 hour 32 mins,23 mins,28 mins,21 mins,leisure,yes
+407,384,t384,8.0,7.0,15.0,23 mins,1 hour 32 mins,37 mins,27 mins,21 mins,leisure,yes
+408,414,t414,6.0,11.0,17.0,16 mins,1 hour 32 mins,30 mins,25 mins,16 mins,errand,yes
+409,454,t454,5.0,10.0,15.0,16 mins,1 hour 32 mins,27 mins,27 mins,15 mins,leisure,yes
+410,559,t559,2.0,3.0,5.0,18 mins,1 hour 32 mins,38 mins,26 mins,16 mins,commuting,no
+411,664,t664,5.0,1.0,6.0,20 mins,1 hour 32 mins,27 mins,24 mins,20 mins,errand,yes
+412,984,t984,11.0,8.0,19.0,20 mins,1 hour 32 mins,23 mins,28 mins,18 mins,business,yes
+413,985,t985,11.0,6.0,17.0,17 mins,1 hour 32 mins,29 mins,31 mins,17 mins,leisure,yes
+414,986,t986,11.0,5.0,16.0,17 mins,1 hour 32 mins,29 mins,30 mins,17 mins,leisure,yes
+415,1098,t1178,2.0,5.0,7.0,14 mins,1 hour 32 mins,44 mins,24 mins,14 mins,leisure,yes
+416,1130,t1210,5.0,3.0,8.0,20 mins,1 hour 32 mins,39 mins,31 mins,22 mins,errand,yes
+417,1249,t1329,7.0,8.0,15.0,23 mins,1 hour 32 mins,33 mins,26 mins,22 mins,errand,yes
+418,1407,t1487,4.0,3.0,7.0,21 mins,1 hour 32 mins,28 mins,27 mins,20 mins,leisure,yes
+419,16,t16,6.0,5.0,11.0,20 mins,1 hour 33 mins,29 mins,27 mins,23 mins,errand,yes
+420,345,t345,7.0,7.0,14.0,23 mins,1 hour 33 mins,36 mins,27 mins,20 mins,leisure,yes
+421,453,t453,5.0,11.0,16.0,16 mins,1 hour 33 mins,28 mins,25 mins,15 mins,leisure,yes
+422,457,t457,5.0,2.0,7.0,14 mins,1 hour 33 mins,39 mins,27 mins,15 mins,errand,yes
+423,458,t458,5.0,2.0,7.0,14 mins,1 hour 33 mins,40 mins,28 mins,14 mins,errand,yes
+424,520,t520,3.0,2.0,5.0,18 mins,1 hour 33 mins,36 mins,27 mins,16 mins,leisure,no
+425,544,t544,3.0,4.0,7.0,20 mins,1 hour 33 mins,31 mins,27 mins,18 mins,leisure,yes
+426,555,t555,2.0,8.0,10.0,18 mins,1 hour 33 mins,42 mins,25 mins,18 mins,commuting,yes
+427,619,t619,6.0,5.0,11.0,23 mins,1 hour 33 mins,34 mins,26 mins,23 mins,business,yes
+428,717,t717,7.0,6.0,13.0,21 mins,1 hour 33 mins,35 mins,25 mins,22 mins,commuting,yes
+429,851,t851,5.0,6.0,11.0,23 mins,1 hour 33 mins,34 mins,26 mins,19 mins,leisure,no
+430,1059,t1139,2.0,6.0,8.0,14 mins,1 hour 33 mins,33 mins,26 mins,17 mins,commuting,yes
+431,1097,t1177,2.0,6.0,8.0,14 mins,1 hour 33 mins,33 mins,27 mins,17 mins,errand,yes
+432,1222,t1302,6.0,5.0,11.0,22 mins,1 hour 33 mins,40 mins,26 mins,18 mins,commuting,yes
+433,1248,t1328,7.0,7.0,14.0,23 mins,1 hour 33 mins,36 mins,26 mins,20 mins,errand,yes
+434,1294,t1374,5.0,6.0,11.0,21 mins,1 hour 33 mins,40 mins,28 mins,23 mins,leisure,no
+435,364,t364,8.0,2.0,10.0,19 mins,1 hour 34 mins,36 mins,29 mins,18 mins,commuting,yes
+436,401,t401,6.0,5.0,11.0,17 mins,1 hour 34 mins,28 mins,29 mins,24 mins,leisure,yes
+437,418,t418,6.0,2.0,8.0,14 mins,1 hour 34 mins,32 mins,28 mins,17 mins,commuting,yes
+438,419,t419,6.0,2.0,8.0,14 mins,1 hour 34 mins,32 mins,29 mins,17 mins,errand,no
+439,478,t478,5.0,6.0,11.0,17 mins,1 hour 34 mins,38 mins,28 mins,23 mins,errand,yes
+440,602,t602,6.0,7.0,13.0,21 mins,1 hour 34 mins,35 mins,24 mins,23 mins,errand,no
+441,663,t663,5.0,6.0,11.0,20 mins,1 hour 34 mins,29 mins,27 mins,21 mins,commuting,yes
+442,200,t200,3.0,8.0,11.0,21 mins,1 hour 35 mins,39 mins,25 mins,21 mins,commuting,yes
+443,383,t383,8.0,6.0,14.0,23 mins,1 hour 35 mins,33 mins,28 mins,21 mins,leisure,yes
+444,558,t558,2.0,5.0,7.0,18 mins,1 hour 35 mins,38 mins,29 mins,19 mins,commuting,yes
+445,1210,t1290,6.0,8.0,14.0,23 mins,1 hour 35 mins,30 mins,25 mins,21 mins,leisure,yes
+446,1368,t1448,6.0,3.0,9.0,21 mins,1 hour 35 mins,31 mins,29 mins,21 mins,leisure,yes
+447,132,t132,4.0,3.0,7.0,23 mins,1 hour 36 mins,45 mins,26 mins,19 mins,leisure,yes
+448,201,t201,3.0,7.0,10.0,21 mins,1 hour 36 mins,39 mins,26 mins,22 mins,leisure,yes
+449,209,t209,3.0,6.0,9.0,18 mins,1 hour 36 mins,51 mins,26 mins,21 mins,leisure,yes
+450,344,t344,7.0,6.0,13.0,23 mins,1 hour 36 mins,40 mins,27 mins,18 mins,leisure,yes
+451,481,t481,5.0,2.0,7.0,18 mins,1 hour 36 mins,36 mins,28 mins,20 mins,errand,yes
+452,505,t505,5.0,4.0,9.0,20 mins,1 hour 36 mins,30 mins,26 mins,22 mins,leisure,yes
+453,542,t542,3.0,2.0,5.0,18 mins,1 hour 36 mins,23 mins,27 mins,19 mins,commuting,yes
+454,543,t543,3.0,6.0,9.0,20 mins,1 hour 36 mins,39 mins,28 mins,19 mins,leisure,no
+455,627,t627,3.0,4.0,7.0,23 mins,1 hour 36 mins,51 mins,27 mins,21 mins,errand,no
+456,1057,t1137,2.0,7.0,9.0,17 mins,1 hour 36 mins,35 mins,25 mins,18 mins,errand,yes
+457,1209,t1289,6.0,7.0,13.0,23 mins,1 hour 36 mins,32 mins,25 mins,18 mins,leisure,yes
+458,1267,t1347,7.0,6.0,13.0,25 mins,1 hour 36 mins,48 mins,28 mins,24 mins,commuting,yes
+459,1268,t1348,7.0,6.0,13.0,25 mins,1 hour 36 mins,48 mins,28 mins,24 mins,commuting,yes
+460,1292,t1372,5.0,3.0,8.0,17 mins,1 hour 36 mins,27 mins,28 mins,17 mins,commuting,yes
+461,1330,t1410,2.0,3.0,5.0,17 mins,1 hour 36 mins,28 mins,28 mins,17 mins,commuting,yes
+462,1332,t1412,2.0,6.0,8.0,21 mins,1 hour 36 mins,41 mins,29 mins,23 mins,commuting,no
+463,1406,t1486,4.0,5.0,9.0,21 mins,1 hour 36 mins,27 mins,27 mins,23 mins,leisure,yes
+464,239,t239,8.0,3.0,11.0,22 mins,1 hour 37 mins,43 mins,30 mins,22 mins,leisure,yes
+465,541,t541,3.0,5.0,8.0,18 mins,1 hour 37 mins,23 mins,27 mins,17 mins,leisure,yes
+466,620,t620,6.0,2.0,8.0,23 mins,1 hour 37 mins,35 mins,26 mins,22 mins,errand,yes
+467,1005,t1085,6.0,7.0,13.0,24 mins,1 hour 37 mins,48 mins,27 mins,23 mins,errand,yes
+468,1043,t1123,6.0,7.0,13.0,24 mins,1 hour 37 mins,48 mins,27 mins,23 mins,leisure,yes
+469,1095,t1175,2.0,7.0,9.0,17 mins,1 hour 37 mins,35 mins,25 mins,18 mins,errand,yes
+470,1297,t1377,5.0,7.0,12.0,20 mins,1 hour 37 mins,28 mins,30 mins,20 mins,commuting,no
+471,1335,t1415,2.0,7.0,9.0,20 mins,1 hour 37 mins,29 mins,30 mins,20 mins,commuting,yes
+472,93,t93,6.0,3.0,9.0,23 mins,1 hour 38 mins,48 mins,27 mins,21 mins,leisure,yes
+473,278,t278,7.0,3.0,10.0,22 mins,1 hour 38 mins,43 mins,31 mins,22 mins,commuting,no
+474,340,t340,7.0,2.0,9.0,17 mins,1 hour 38 mins,32 mins,28 mins,20 mins,commuting,no
+475,590,t590,6.0,3.0,9.0,20 mins,1 hour 38 mins,45 mins,31 mins,22 mins,errand,no
+476,736,t736,7.0,5.0,12.0,21 mins,1 hour 38 mins,30 mins,32 mins,20 mins,commuting,yes
+477,737,t737,7.0,2.0,9.0,21 mins,1 hour 38 mins,30 mins,32 mins,19 mins,leisure,yes
+478,341,t341,7.0,2.0,9.0,17 mins,1 hour 39 mins,32 mins,29 mins,20 mins,leisure,yes
+479,503,t503,5.0,2.0,7.0,18 mins,1 hour 39 mins,22 mins,28 mins,21 mins,errand,yes
+480,504,t504,5.0,6.0,11.0,20 mins,1 hour 39 mins,38 mins,27 mins,23 mins,errand,yes
+481,554,t554,2.0,7.0,9.0,18 mins,1 hour 39 mins,32 mins,26 mins,22 mins,commuting,yes
+482,601,t601,6.0,5.0,11.0,21 mins,1 hour 39 mins,36 mins,26 mins,25 mins,commuting,yes
+483,626,t626,3.0,6.0,9.0,23 mins,1 hour 39 mins,45 mins,28 mins,22 mins,commuting,yes
+484,678,t678,5.0,6.0,11.0,21 mins,1 hour 39 mins,36 mins,26 mins,23 mins,commuting,yes
+485,1085,t1165,2.0,4.0,6.0,20 mins,1 hour 39 mins,39 mins,27 mins,18 mins,errand,yes
+486,1291,t1371,5.0,5.0,10.0,17 mins,1 hour 39 mins,26 mins,31 mins,20 mins,commuting,yes
+487,1329,t1409,2.0,5.0,7.0,17 mins,1 hour 39 mins,27 mins,31 mins,20 mins,errand,yes
+488,1367,t1447,6.0,5.0,11.0,21 mins,1 hour 39 mins,30 mins,28 mins,24 mins,commuting,no
+489,37,t37,6.0,4.0,10.0,16 mins,1 hour 4 mins,37 mins,18 mins,16 mins,errand,yes
+490,85,t85,6.0,7.0,13.0,13 mins,1 hour 4 mins,27 mins,17 mins,14 mins,leisure,yes
+491,164,t164,8.0,8.0,16.0,15 mins,1 hour 4 mins,26 mins,19 mins,13 mins,errand,yes
+492,233,t233,3.0,7.0,10.0,15 mins,1 hour 4 mins,25 mins,18 mins,14 mins,errand,yes
+493,314,t314,7.0,6.0,13.0,13 mins,1 hour 4 mins,29 mins,18 mins,14 mins,errand,yes
+494,393,t393,6.0,4.0,10.0,13 mins,1 hour 4 mins,28 mins,18 mins,15 mins,leisure,yes
+495,462,t462,5.0,7.0,12.0,14 mins,1 hour 4 mins,34 mins,18 mins,14 mins,leisure,yes
+496,825,t825,5.0,8.0,13.0,19 mins,1 hour 4 mins,29 mins,18 mins,19 mins,commuting,yes
+497,964,t964,6.0,2.0,8.0,11 mins,1 hour 4 mins,24 mins,20 mins,11 mins,commuting,yes
+498,1354,t1434,2.0,7.0,9.0,16 mins,1 hour 4 mins,16 mins,20 mins,14 mins,errand,yes
+499,1394,t1474,4.0,6.0,10.0,14 mins,1 hour 4 mins,32 mins,19 mins,15 mins,commuting,yes
+500,148,t148,4.0,2.0,6.0,25 mins,1 hour 40 mins,42 mins,29 mins,22 mins,errand,yes
+501,325,t325,7.0,2.0,9.0,19 mins,1 hour 40 mins,34 mins,29 mins,20 mins,errand,yes
+502,502,t502,5.0,5.0,10.0,18 mins,1 hour 40 mins,22 mins,28 mins,21 mins,leisure,yes
+503,1004,t1084,6.0,6.0,12.0,24 mins,1 hour 40 mins,43 mins,28 mins,23 mins,commuting,yes
+504,1042,t1122,6.0,6.0,12.0,24 mins,1 hour 40 mins,43 mins,28 mins,23 mins,commuting,no
+505,1123,t1203,2.0,4.0,6.0,20 mins,1 hour 40 mins,39 mins,27 mins,17 mins,errand,yes
+506,1228,t1308,6.0,6.0,12.0,25 mins,1 hour 40 mins,42 mins,28 mins,23 mins,leisure,yes
+507,1229,t1309,6.0,6.0,12.0,25 mins,1 hour 40 mins,42 mins,28 mins,23 mins,commuting,yes
+508,1423,t1503,4.0,2.0,6.0,19 mins,1 hour 40 mins,38 mins,29 mins,17 mins,leisure,yes
+509,118,t118,4.0,1.0,5.0,24 mins,1 hour 41 mins,40 mins,28 mins,21 mins,leisure,yes
+510,545,t545,3.0,7.0,10.0,20 mins,1 hour 41 mins,26 mins,29 mins,21 mins,errand,yes
+511,1084,t1164,2.0,6.0,8.0,20 mins,1 hour 41 mins,36 mins,28 mins,19 mins,errand,no
+512,1166,t1246,2.0,4.0,6.0,25 mins,1 hour 41 mins,39 mins,28 mins,22 mins,commuting,yes
+513,1424,t1504,4.0,2.0,6.0,19 mins,1 hour 41 mins,38 mins,31 mins,16 mins,leisure,yes
+514,1446,t1526,7.0,3.0,10.0,21 mins,1 hour 41 mins,31 mins,29 mins,23 mins,commuting,yes
+515,41,t41,1.0,4.0,5.0,24 mins,1 hour 42 mins,39 mins,30 mins,23 mins,leisure,yes
+516,147,t147,4.0,5.0,9.0,25 mins,1 hour 42 mins,45 mins,29 mins,25 mins,leisure,yes
+517,156,t156,8.0,6.0,14.0,20 mins,1 hour 42 mins,33 mins,29 mins,20 mins,business,yes
+518,1122,t1202,2.0,6.0,8.0,20 mins,1 hour 42 mins,36 mins,28 mins,18 mins,errand,yes
+519,1266,t1346,7.0,10.0,17.0,18 mins,1 hour 42 mins,43 mins,29 mins,16 mins,commuting,no
+520,1296,t1376,5.0,5.0,10.0,20 mins,1 hour 42 mins,29 mins,32 mins,22 mins,leisure,yes
+521,1334,t1414,2.0,5.0,7.0,20 mins,1 hour 42 mins,29 mins,32 mins,22 mins,business,yes
+522,2,t2,6.0,4.0,10.0,24 mins,1 hour 43 mins,41 mins,31 mins,23 mins,commuting,yes
+523,3,t3,6.0,8.0,14.0,21 mins,1 hour 43 mins,34 mins,29 mins,20 mins,leisure,yes
+524,42,t42,1.0,8.0,9.0,21 mins,1 hour 43 mins,32 mins,29 mins,20 mins,business,yes
+525,79,t79,6.0,1.0,7.0,24 mins,1 hour 43 mins,35 mins,29 mins,23 mins,leisure,yes
+526,109,t109,6.0,2.0,8.0,25 mins,1 hour 43 mins,48 mins,30 mins,23 mins,errand,yes
+527,117,t117,4.0,6.0,10.0,24 mins,1 hour 43 mins,42 mins,31 mins,22 mins,errand,no
+528,131,t131,4.0,6.0,10.0,23 mins,1 hour 43 mins,47 mins,28 mins,22 mins,errand,yes
+529,157,t157,8.0,1.0,9.0,20 mins,1 hour 43 mins,31 mins,29 mins,19 mins,commuting,yes
+530,563,t563,2.0,7.0,9.0,21 mins,1 hour 43 mins,43 mins,32 mins,21 mins,leisure,yes
+531,697,t697,5.0,5.0,10.0,21 mins,1 hour 43 mins,31 mins,33 mins,21 mins,commuting,no
+532,698,t698,5.0,2.0,7.0,21 mins,1 hour 43 mins,31 mins,34 mins,20 mins,errand,yes
+533,1128,t1208,5.0,4.0,9.0,25 mins,1 hour 43 mins,43 mins,30 mins,24 mins,errand,yes
+534,1165,t1245,2.0,6.0,8.0,25 mins,1 hour 43 mins,42 mins,29 mins,23 mins,commuting,yes
+535,1265,t1345,7.0,11.0,18.0,18 mins,1 hour 43 mins,44 mins,27 mins,16 mins,leisure,yes
+536,1285,t1365,5.0,8.0,13.0,23 mins,1 hour 43 mins,25 mins,28 mins,24 mins,business,yes
+537,1384,t1464,6.0,2.0,8.0,19 mins,1 hour 43 mins,34 mins,30 mins,17 mins,leisure,no
+538,40,t40,1.0,6.0,7.0,24 mins,1 hour 44 mins,37 mins,31 mins,24 mins,errand,yes
+539,108,t108,6.0,5.0,11.0,25 mins,1 hour 44 mins,51 mins,30 mins,26 mins,leisure,yes
+540,268,t268,8.0,5.0,13.0,25 mins,1 hour 44 mins,28 mins,30 mins,25 mins,commuting,yes
+541,577,t577,2.0,2.0,4.0,20 mins,1 hour 44 mins,49 mins,30 mins,20 mins,errand,no
+542,588,t588,6.0,4.0,10.0,23 mins,1 hour 44 mins,49 mins,29 mins,24 mins,leisure,yes
+543,716,t716,7.0,2.0,9.0,21 mins,1 hour 44 mins,43 mins,35 mins,20 mins,leisure,yes
+544,1286,t1366,5.0,7.0,12.0,23 mins,1 hour 44 mins,25 mins,29 mins,25 mins,commuting,yes
+545,1323,t1403,2.0,8.0,10.0,23 mins,1 hour 44 mins,25 mins,29 mins,24 mins,errand,yes
+546,1385,t1465,6.0,2.0,8.0,19 mins,1 hour 44 mins,35 mins,31 mins,17 mins,errand,yes
+547,78,t78,6.0,6.0,12.0,24 mins,1 hour 45 mins,38 mins,32 mins,24 mins,commuting,yes
+548,269,t269,8.0,2.0,10.0,25 mins,1 hour 45 mins,28 mins,30 mins,25 mins,leisure,yes
+549,307,t307,7.0,5.0,12.0,25 mins,1 hour 45 mins,28 mins,30 mins,25 mins,leisure,yes
+550,576,t576,2.0,5.0,7.0,20 mins,1 hour 45 mins,54 mins,30 mins,23 mins,leisure,yes
+551,1127,t1207,5.0,6.0,11.0,25 mins,1 hour 45 mins,46 mins,30 mins,25 mins,commuting,yes
+552,1177,t1257,2.0,2.0,4.0,20 mins,1 hour 45 mins,52 mins,31 mins,21 mins,leisure,yes
+553,1181,t1261,2.0,7.0,9.0,22 mins,1 hour 45 mins,32 mins,28 mins,20 mins,errand,yes
+554,1226,t1306,6.0,11.0,17.0,18 mins,1 hour 45 mins,44 mins,26 mins,14 mins,leisure,yes
+555,1227,t1307,6.0,10.0,16.0,18 mins,1 hour 45 mins,43 mins,27 mins,14 mins,commuting,yes
+556,1324,t1404,2.0,7.0,9.0,23 mins,1 hour 45 mins,26 mins,29 mins,25 mins,leisure,yes
+557,1,t1,6.0,6.0,12.0,24 mins,1 hour 46 mins,40 mins,31 mins,24 mins,errand,yes
+558,92,t92,6.0,6.0,12.0,23 mins,1 hour 46 mins,51 mins,29 mins,24 mins,leisure,no
+559,150,t150,4.0,7.0,11.0,23 mins,1 hour 46 mins,39 mins,28 mins,23 mins,errand,no
+560,308,t308,7.0,2.0,9.0,25 mins,1 hour 46 mins,28 mins,31 mins,25 mins,errand,yes
+561,506,t506,5.0,7.0,12.0,20 mins,1 hour 46 mins,25 mins,29 mins,25 mins,errand,yes
+562,587,t587,6.0,6.0,12.0,23 mins,1 hour 46 mins,52 mins,29 mins,25 mins,leisure,yes
+563,733,t733,7.0,2.0,9.0,22 mins,1 hour 46 mins,33 mins,28 mins,21 mins,leisure,yes
+564,1139,t1219,5.0,2.0,7.0,20 mins,1 hour 46 mins,56 mins,31 mins,23 mins,commuting,yes
+565,1243,t1323,7.0,4.0,11.0,22 mins,1 hour 46 mins,40 mins,30 mins,22 mins,errand,yes
+566,1445,t1525,7.0,5.0,12.0,21 mins,1 hour 46 mins,30 mins,29 mins,25 mins,errand,yes
+567,267,t267,8.0,7.0,15.0,25 mins,1 hour 47 mins,45 mins,29 mins,24 mins,leisure,yes
+568,1246,t1326,7.0,8.0,15.0,25 mins,1 hour 47 mins,43 mins,27 mins,25 mins,business,no
+569,111,t111,6.0,7.0,13.0,23 mins,1 hour 48 mins,37 mins,29 mins,24 mins,errand,yes
+570,195,t195,3.0,6.0,9.0,20 mins,1 hour 48 mins,35 mins,29 mins,21 mins,leisure,yes
+571,562,t562,2.0,5.0,7.0,21 mins,1 hour 48 mins,44 mins,34 mins,23 mins,leisure,yes
+572,732,t732,7.0,5.0,12.0,22 mins,1 hour 48 mins,35 mins,29 mins,22 mins,errand,no
+573,1086,t1166,2.0,7.0,9.0,20 mins,1 hour 48 mins,34 mins,30 mins,20 mins,errand,yes
+574,1124,t1204,2.0,7.0,9.0,20 mins,1 hour 48 mins,34 mins,30 mins,19 mins,leisure,yes
+575,1143,t1223,5.0,7.0,12.0,22 mins,1 hour 48 mins,34 mins,29 mins,22 mins,errand,yes
+576,149,t149,4.0,6.0,10.0,23 mins,1 hour 49 mins,50 mins,29 mins,19 mins,errand,no
+577,196,t196,3.0,1.0,4.0,20 mins,1 hour 49 mins,32 mins,29 mins,20 mins,business,yes
+578,306,t306,7.0,7.0,14.0,25 mins,1 hour 49 mins,44 mins,30 mins,25 mins,errand,yes
+579,677,t677,5.0,2.0,7.0,21 mins,1 hour 49 mins,44 mins,36 mins,21 mins,commuting,no
+580,1204,t1284,6.0,4.0,10.0,22 mins,1 hour 49 mins,42 mins,30 mins,19 mins,leisure,yes
+581,1242,t1322,7.0,6.0,13.0,22 mins,1 hour 49 mins,37 mins,30 mins,23 mins,commuting,no
+582,1247,t1327,7.0,7.0,14.0,25 mins,1 hour 49 mins,44 mins,27 mins,26 mins,leisure,yes
+583,1462,t1542,7.0,2.0,9.0,19 mins,1 hour 49 mins,33 mins,33 mins,19 mins,leisure,yes
+584,1463,t1543,7.0,2.0,9.0,19 mins,1 hour 49 mins,33 mins,34 mins,19 mins,commuting,yes
+585,64,t64,1.0,10.0,11.0,14 mins,1 hour 5 mins,20 mins,19 mins,17 mins,leisure,yes
+586,254,t254,8.0,5.0,13.0,20 mins,1 hour 5 mins,32 mins,19 mins,22 mins,leisure,yes
+587,355,t355,8.0,8.0,16.0,16 mins,1 hour 5 mins,23 mins,21 mins,13 mins,leisure,yes
+588,446,t446,5.0,7.0,12.0,16 mins,1 hour 5 mins,36 mins,20 mins,16 mins,commuting,no
+589,530,t530,3.0,6.0,9.0,14 mins,1 hour 5 mins,19 mins,20 mins,15 mins,errand,yes
+590,549,t549,2.0,4.0,6.0,14 mins,1 hour 5 mins,43 mins,18 mins,13 mins,leisure,yes
+591,713,t713,7.0,5.0,12.0,17 mins,1 hour 5 mins,30 mins,21 mins,16 mins,errand,yes
+592,910,t910,6.0,3.0,9.0,15 mins,1 hour 5 mins,21 mins,20 mins,14 mins,errand,yes
+593,925,t925,6.0,2.0,8.0,11 mins,1 hour 5 mins,24 mins,20 mins,11 mins,commuting,yes
+594,926,t926,6.0,2.0,8.0,11 mins,1 hour 5 mins,24 mins,20 mins,10 mins,leisure,yes
+595,949,t949,6.0,3.0,9.0,15 mins,1 hour 5 mins,21 mins,20 mins,14 mins,business,yes
+596,965,t965,6.0,2.0,8.0,11 mins,1 hour 5 mins,25 mins,20 mins,11 mins,commuting,yes
+597,1189,t1269,2.0,10.0,12.0,10 mins,1 hour 5 mins,20 mins,16 mins,7 mins,leisure,yes
+598,1469,t1549,7.0,2.0,9.0,15 mins,1 hour 5 mins,16 mins,19 mins,14 mins,errand,yes
+599,4,t4,6.0,3.0,9.0,21 mins,1 hour 50 mins,36 mins,33 mins,22 mins,errand,yes
+600,43,t43,1.0,3.0,4.0,21 mins,1 hour 50 mins,34 mins,32 mins,22 mins,errand,yes
+601,1037,t1117,6.0,10.0,16.0,21 mins,1 hour 50 mins,32 mins,31 mins,24 mins,commuting,yes
+602,1180,t1260,2.0,5.0,7.0,22 mins,1 hour 50 mins,35 mins,30 mins,22 mins,leisure,yes
+603,1207,t1287,6.0,8.0,14.0,25 mins,1 hour 50 mins,40 mins,27 mins,23 mins,leisure,yes
+604,33,t33,6.0,7.0,13.0,24 mins,1 hour 51 mins,53 mins,33 mins,24 mins,commuting,yes
+605,110,t110,6.0,6.0,12.0,23 mins,1 hour 51 mins,39 mins,29 mins,20 mins,commuting,yes
+606,266,t266,8.0,6.0,14.0,25 mins,1 hour 51 mins,43 mins,30 mins,24 mins,errand,yes
+607,561,t561,2.0,3.0,5.0,22 mins,1 hour 51 mins,49 mins,33 mins,22 mins,errand,yes
+608,638,t638,3.0,2.0,5.0,24 mins,1 hour 51 mins,47 mins,34 mins,23 mins,errand,yes
+609,694,t694,5.0,2.0,7.0,22 mins,1 hour 51 mins,35 mins,30 mins,22 mins,leisure,yes
+610,1036,t1116,6.0,11.0,17.0,21 mins,1 hour 51 mins,32 mins,30 mins,23 mins,errand,no
+611,1240,t1320,7.0,6.0,13.0,24 mins,1 hour 51 mins,44 mins,32 mins,25 mins,leisure,yes
+612,305,t305,7.0,6.0,13.0,25 mins,1 hour 52 mins,43 mins,30 mins,25 mins,errand,no
+613,1203,t1283,6.0,6.0,12.0,22 mins,1 hour 52 mins,44 mins,31 mins,20 mins,errand,no
+614,1208,t1288,6.0,7.0,13.0,25 mins,1 hour 52 mins,40 mins,27 mins,24 mins,leisure,no
+615,72,t72,1.0,7.0,8.0,24 mins,1 hour 53 mins,48 mins,32 mins,24 mins,leisure,yes
+616,693,t693,5.0,5.0,10.0,22 mins,1 hour 53 mins,37 mins,31 mins,23 mins,commuting,no
+617,1142,t1222,5.0,5.0,10.0,22 mins,1 hour 53 mins,36 mins,32 mins,24 mins,leisure,yes
+618,1241,t1321,7.0,1.0,8.0,24 mins,1 hour 53 mins,42 mins,31 mins,24 mins,errand,no
+619,1280,t1360,5.0,1.0,6.0,22 mins,1 hour 53 mins,21 mins,31 mins,23 mins,commuting,yes
+620,34,t34,6.0,5.0,11.0,24 mins,1 hour 54 mins,24 mins,32 mins,25 mins,errand,no
+621,73,t73,1.0,5.0,6.0,24 mins,1 hour 54 mins,22 mins,31 mins,24 mins,leisure,no
+622,1279,t1359,5.0,6.0,11.0,22 mins,1 hour 54 mins,24 mins,32 mins,23 mins,errand,yes
+623,32,t32,6.0,6.0,12.0,24 mins,1 hour 55 mins,47 mins,33 mins,22 mins,commuting,yes
+624,1055,t1135,2.0,8.0,10.0,26 mins,1 hour 55 mins,48 mins,31 mins,27 mins,leisure,no
+625,1201,t1281,6.0,6.0,12.0,24 mins,1 hour 55 mins,42 mins,31 mins,23 mins,leisure,yes
+626,71,t71,1.0,6.0,7.0,24 mins,1 hour 56 mins,45 mins,32 mins,24 mins,commuting,yes
+627,1093,t1173,2.0,8.0,10.0,26 mins,1 hour 56 mins,48 mins,31 mins,27 mins,errand,yes
+628,1202,t1282,6.0,1.0,7.0,24 mins,1 hour 56 mins,40 mins,31 mins,22 mins,commuting,yes
+629,1318,t1398,2.0,1.0,3.0,22 mins,1 hour 56 mins,22 mins,32 mins,23 mins,errand,yes
+630,35,t35,6.0,2.0,8.0,24 mins,1 hour 57 mins,25 mins,33 mins,24 mins,leisure,no
+631,74,t74,1.0,2.0,3.0,24 mins,1 hour 57 mins,23 mins,32 mins,24 mins,leisure,yes
+632,262,t262,8.0,2.0,10.0,26 mins,1 hour 57 mins,47 mins,34 mins,26 mins,commuting,no
+633,921,t921,6.0,11.0,17.0,19 mins,1 hour 57 mins,35 mins,31 mins,23 mins,errand,yes
+634,922,t922,6.0,10.0,16.0,19 mins,1 hour 57 mins,34 mins,32 mins,23 mins,errand,yes
+635,960,t960,6.0,11.0,17.0,19 mins,1 hour 57 mins,35 mins,31 mins,23 mins,leisure,no
+636,961,t961,6.0,10.0,16.0,19 mins,1 hour 57 mins,35 mins,32 mins,23 mins,leisure,yes
+637,1056,t1136,2.0,7.0,9.0,26 mins,1 hour 57 mins,48 mins,31 mins,28 mins,commuting,yes
+638,1094,t1174,2.0,7.0,9.0,26 mins,1 hour 57 mins,49 mins,31 mins,27 mins,commuting,yes
+639,1317,t1397,2.0,6.0,8.0,22 mins,1 hour 57 mins,24 mins,32 mins,23 mins,commuting,yes
+640,263,t263,8.0,2.0,10.0,26 mins,1 hour 58 mins,47 mins,35 mins,26 mins,errand,yes
+641,552,t552,2.0,8.0,10.0,24 mins,1 hour 58 mins,52 mins,32 mins,25 mins,leisure,yes
+642,560,t560,2.0,6.0,8.0,22 mins,1 hour 58 mins,58 mins,35 mins,25 mins,leisure,no
+643,998,t998,11.0,6.0,17.0,19 mins,1 hour 58 mins,34 mins,33 mins,20 mins,commuting,yes
+644,999,t999,11.0,6.0,17.0,19 mins,1 hour 58 mins,34 mins,33 mins,20 mins,errand,no
+645,247,t247,8.0,2.0,10.0,26 mins,1 hour 59 mins,54 mins,35 mins,26 mins,leisure,no
+646,301,t301,7.0,2.0,9.0,26 mins,1 hour 59 mins,47 mins,34 mins,27 mins,leisure,yes
+647,302,t302,7.0,2.0,9.0,26 mins,1 hour 59 mins,47 mins,36 mins,26 mins,errand,yes
+648,553,t553,2.0,7.0,9.0,24 mins,1 hour 59 mins,52 mins,32 mins,26 mins,errand,yes
+649,599,t599,6.0,2.0,8.0,24 mins,1 hour 59 mins,55 mins,35 mins,24 mins,leisure,yes
+650,36,t36,6.0,6.0,12.0,16 mins,1 hour 6 mins,26 mins,18 mins,16 mins,errand,yes
+651,63,t63,1.0,11.0,12.0,14 mins,1 hour 6 mins,21 mins,17 mins,17 mins,leisure,yes
+652,75,t75,1.0,6.0,7.0,16 mins,1 hour 6 mins,24 mins,18 mins,16 mins,errand,yes
+653,87,t87,6.0,6.0,12.0,14 mins,1 hour 6 mins,31 mins,20 mins,16 mins,errand,no
+654,130,t130,4.0,2.0,6.0,14 mins,1 hour 6 mins,39 mins,19 mins,13 mins,errand,yes
+655,227,t227,3.0,6.0,9.0,16 mins,1 hour 6 mins,27 mins,17 mins,12 mins,leisure,yes
+656,255,t255,8.0,7.0,15.0,20 mins,1 hour 6 mins,37 mins,18 mins,21 mins,leisure,yes
+657,343,t343,7.0,2.0,9.0,15 mins,1 hour 6 mins,32 mins,18 mins,12 mins,commuting,yes
+658,392,t392,6.0,6.0,12.0,13 mins,1 hour 6 mins,31 mins,18 mins,17 mins,leisure,yes
+659,529,t529,3.0,6.0,9.0,14 mins,1 hour 6 mins,19 mins,22 mins,14 mins,leisure,yes
+660,686,t686,5.0,6.0,11.0,14 mins,1 hour 6 mins,29 mins,21 mins,16 mins,errand,yes
+661,826,t826,5.0,7.0,12.0,19 mins,1 hour 6 mins,29 mins,18 mins,20 mins,errand,yes
+662,864,t864,7.0,8.0,15.0,19 mins,1 hour 6 mins,36 mins,18 mins,21 mins,leisure,no
+663,914,t914,6.0,5.0,11.0,15 mins,1 hour 6 mins,34 mins,21 mins,17 mins,errand,yes
+664,953,t953,6.0,5.0,11.0,15 mins,1 hour 6 mins,35 mins,21 mins,17 mins,commuting,no
+665,976,t976,11.0,1.0,12.0,14 mins,1 hour 6 mins,21 mins,21 mins,14 mins,leisure,yes
+666,1171,t1251,2.0,7.0,9.0,17 mins,1 hour 6 mins,26 mins,17 mins,13 mins,errand,yes
+667,1188,t1268,2.0,11.0,13.0,10 mins,1 hour 6 mins,21 mins,15 mins,7 mins,commuting,no
+668,1355,t1435,6.0,6.0,12.0,14 mins,1 hour 6 mins,27 mins,18 mins,15 mins,commuting,yes
+669,1356,t1436,6.0,1.0,7.0,14 mins,1 hour 6 mins,24 mins,17 mins,15 mins,leisure,no
+670,1438,t1518,7.0,3.0,10.0,15 mins,1 hour 6 mins,23 mins,22 mins,15 mins,errand,yes
+671,10,t10,6.0,5.0,11.0,16 mins,1 hour 7 mins,24 mins,20 mins,16 mins,errand,yes
+672,49,t49,1.0,5.0,6.0,16 mins,1 hour 7 mins,22 mins,19 mins,16 mins,errand,yes
+673,91,t91,6.0,2.0,8.0,14 mins,1 hour 7 mins,44 mins,20 mins,14 mins,errand,yes
+674,154,t154,4.0,4.0,8.0,19 mins,1 hour 7 mins,32 mins,20 mins,15 mins,errand,yes
+675,293,t293,7.0,5.0,12.0,20 mins,1 hour 7 mins,32 mins,20 mins,22 mins,leisure,no
+676,342,t342,7.0,5.0,12.0,15 mins,1 hour 7 mins,30 mins,18 mins,14 mins,leisure,yes
+677,430,t430,5.0,1.0,6.0,15 mins,1 hour 7 mins,22 mins,18 mins,15 mins,commuting,yes
+678,461,t461,5.0,6.0,11.0,14 mins,1 hour 7 mins,29 mins,19 mins,14 mins,commuting,yes
+679,548,t548,2.0,6.0,8.0,14 mins,1 hour 7 mins,46 mins,19 mins,14 mins,commuting,yes
+680,650,t650,3.0,6.0,9.0,17 mins,1 hour 7 mins,37 mins,18 mins,16 mins,leisure,yes
+681,651,t651,3.0,6.0,9.0,17 mins,1 hour 7 mins,37 mins,18 mins,16 mins,errand,yes
+682,685,t685,5.0,6.0,11.0,14 mins,1 hour 7 mins,28 mins,21 mins,16 mins,commuting,yes
+683,865,t865,7.0,7.0,14.0,19 mins,1 hour 7 mins,36 mins,18 mins,22 mins,errand,yes
+684,1027,t1107,6.0,3.0,9.0,16 mins,1 hour 7 mins,43 mins,18 mins,15 mins,errand,yes
+685,1133,t1213,5.0,7.0,12.0,17 mins,1 hour 7 mins,28 mins,19 mins,14 mins,commuting,yes
+686,1206,t1286,6.0,3.0,9.0,15 mins,1 hour 7 mins,24 mins,19 mins,12 mins,business,yes
+687,1212,t1292,6.0,5.0,11.0,14 mins,1 hour 7 mins,25 mins,18 mins,14 mins,errand,yes
+688,152,t152,4.0,2.0,6.0,14 mins,1 hour 8 mins,30 mins,20 mins,13 mins,errand,yes
+689,294,t294,7.0,7.0,14.0,20 mins,1 hour 8 mins,37 mins,19 mins,21 mins,leisure,yes
+690,382,t382,8.0,2.0,10.0,15 mins,1 hour 8 mins,22 mins,21 mins,16 mins,commuting,yes
+691,429,t429,5.0,6.0,11.0,15 mins,1 hour 8 mins,25 mins,19 mins,16 mins,errand,yes
+692,490,t490,5.0,6.0,11.0,14 mins,1 hour 8 mins,18 mins,23 mins,18 mins,leisure,yes
+693,491,t491,5.0,6.0,11.0,14 mins,1 hour 8 mins,19 mins,22 mins,19 mins,leisure,yes
+694,909,t909,6.0,5.0,11.0,15 mins,1 hour 8 mins,20 mins,22 mins,17 mins,commuting,yes
+695,948,t948,6.0,5.0,11.0,15 mins,1 hour 8 mins,21 mins,23 mins,18 mins,commuting,no
+696,1172,t1252,2.0,8.0,10.0,17 mins,1 hour 8 mins,21 mins,19 mins,16 mins,commuting,yes
+697,1282,t1362,5.0,4.0,9.0,13 mins,1 hour 8 mins,29 mins,19 mins,13 mins,leisure,yes
+698,1320,t1400,2.0,4.0,6.0,13 mins,1 hour 8 mins,30 mins,20 mins,13 mins,leisure,no
+699,1397,t1477,4.0,4.0,8.0,18 mins,1 hour 8 mins,34 mins,19 mins,15 mins,commuting,yes
+700,9,t9,6.0,6.0,12.0,16 mins,1 hour 9 mins,24 mins,21 mins,19 mins,commuting,yes
+701,48,t48,1.0,6.0,7.0,16 mins,1 hour 9 mins,35 mins,21 mins,19 mins,leisure,no
+702,151,t151,4.0,5.0,9.0,14 mins,1 hour 9 mins,29 mins,20 mins,13 mins,leisure,yes
+703,189,t189,8.0,7.0,15.0,16 mins,1 hour 9 mins,34 mins,19 mins,14 mins,errand,yes
+704,256,t256,8.0,6.0,14.0,17 mins,1 hour 9 mins,40 mins,20 mins,18 mins,commuting,yes
+705,257,t257,8.0,6.0,14.0,17 mins,1 hour 9 mins,40 mins,20 mins,18 mins,leisure,yes
+706,390,t390,6.0,6.0,12.0,15 mins,1 hour 9 mins,33 mins,21 mins,18 mins,leisure,yes
+707,391,t391,6.0,1.0,7.0,15 mins,1 hour 9 mins,30 mins,20 mins,18 mins,commuting,yes
+708,646,t646,3.0,6.0,9.0,15 mins,1 hour 9 mins,36 mins,19 mins,15 mins,leisure,yes
+709,647,t647,3.0,6.0,9.0,15 mins,1 hour 9 mins,36 mins,19 mins,15 mins,leisure,yes
+710,903,t903,6.0,8.0,14.0,17 mins,1 hour 9 mins,37 mins,18 mins,18 mins,errand,yes
+711,913,t913,6.0,3.0,9.0,14 mins,1 hour 9 mins,37 mins,19 mins,15 mins,leisure,yes
+712,942,t942,6.0,8.0,14.0,17 mins,1 hour 9 mins,38 mins,18 mins,18 mins,commuting,yes
+713,952,t952,6.0,3.0,9.0,14 mins,1 hour 9 mins,38 mins,19 mins,15 mins,commuting,yes
+714,1012,t1092,6.0,1.0,7.0,18 mins,1 hour 9 mins,28 mins,20 mins,17 mins,leisure,yes
+715,483,t483,5.0,3.0,8.0,24 mins,2 hours 0 mins,41 mins,31 mins,27 mins,commuting,yes
+716,286,t286,7.0,2.0,9.0,26 mins,2 hours 1 min,54 mins,35 mins,27 mins,errand,yes
+717,522,t522,3.0,3.0,6.0,24 mins,2 hours 1 min,42 mins,32 mins,23 mins,commuting,yes
+718,636,t636,3.0,5.0,8.0,25 mins,2 hours 1 min,38 mins,32 mins,28 mins,commuting,yes
+719,637,t637,3.0,3.0,6.0,25 mins,2 hours 1 min,38 mins,32 mins,26 mins,errand,yes
+720,735,t735,7.0,7.0,14.0,30 mins,2 hours 10 mins,47 mins,38 mins,28 mins,errand,yes
+721,1065,t1145,2.0,3.0,5.0,24 mins,2 hours 10 mins,57 mins,34 mins,23 mins,commuting,no
+722,1103,t1183,2.0,3.0,5.0,24 mins,2 hours 10 mins,57 mins,34 mins,23 mins,errand,yes
+723,1137,t1217,5.0,5.0,10.0,28 mins,2 hours 10 mins,32 mins,39 mins,29 mins,leisure,yes
+724,1258,t1338,7.0,7.0,14.0,29 mins,2 hours 10 mins,45 mins,36 mins,27 mins,errand,no
+725,498,t498,5.0,5.0,10.0,28 mins,2 hours 11 mins,36 mins,36 mins,31 mins,business,yes
+726,652,t652,3.0,2.0,5.0,24 mins,2 hours 11 mins,58 mins,38 mins,23 mins,leisure,yes
+727,653,t653,3.0,2.0,5.0,24 mins,2 hours 11 mins,57 mins,39 mins,23 mins,commuting,no
+728,1079,t1159,2.0,2.0,4.0,25 mins,2 hours 12 mins,47 mins,36 mins,24 mins,leisure,yes
+729,1117,t1197,2.0,2.0,4.0,25 mins,2 hours 12 mins,47 mins,36 mins,23 mins,errand,yes
+730,181,t181,8.0,10.0,18.0,22 mins,2 hours 13 mins,38 mins,37 mins,22 mins,leisure,no
+731,546,t546,2.0,6.0,8.0,23 mins,2 hours 13 mins,40 mins,38 mins,25 mins,errand,yes
+732,1078,t1158,2.0,5.0,7.0,25 mins,2 hours 13 mins,54 mins,36 mins,27 mins,commuting,yes
+733,1192,t1272,2.0,2.0,4.0,26 mins,2 hours 13 mins,47 mins,38 mins,24 mins,leisure,yes
+734,1219,t1299,6.0,7.0,13.0,29 mins,2 hours 13 mins,41 mins,36 mins,26 mins,errand,yes
+735,13,t13,6.0,2.0,8.0,25 mins,2 hours 14 mins,40 mins,37 mins,26 mins,errand,no
+736,52,t52,1.0,2.0,3.0,25 mins,2 hours 14 mins,38 mins,37 mins,26 mins,errand,yes
+737,180,t180,8.0,11.0,19.0,22 mins,2 hours 14 mins,39 mins,36 mins,22 mins,leisure,yes
+738,547,t547,2.0,1.0,3.0,23 mins,2 hours 14 mins,38 mins,38 mins,24 mins,leisure,yes
+739,687,t687,5.0,11.0,16.0,26 mins,2 hours 14 mins,31 mins,36 mins,25 mins,commuting,yes
+740,688,t688,5.0,10.0,15.0,26 mins,2 hours 14 mins,30 mins,37 mins,26 mins,errand,yes
+741,734,t734,7.0,6.0,13.0,30 mins,2 hours 14 mins,44 mins,38 mins,26 mins,leisure,yes
+742,992,t992,11.0,5.0,16.0,26 mins,2 hours 14 mins,33 mins,41 mins,27 mins,commuting,yes
+743,1116,t1196,2.0,5.0,7.0,25 mins,2 hours 14 mins,54 mins,36 mins,27 mins,leisure,yes
+744,1193,t1273,2.0,2.0,4.0,26 mins,2 hours 14 mins,47 mins,39 mins,23 mins,commuting,yes
+745,696,t696,5.0,7.0,12.0,30 mins,2 hours 15 mins,48 mins,39 mins,28 mins,errand,yes
+746,979,t979,11.0,8.0,19.0,20 mins,2 hours 15 mins,35 mins,40 mins,22 mins,errand,no
+747,1253,t1333,7.0,3.0,10.0,26 mins,2 hours 15 mins,35 mins,41 mins,26 mins,leisure,no
+748,1257,t1337,7.0,5.0,12.0,29 mins,2 hours 15 mins,45 mins,38 mins,30 mins,leisure,yes
+749,540,t540,3.0,7.0,10.0,27 mins,2 hours 16 mins,33 mins,40 mins,27 mins,leisure,no
+750,1050,t1130,2.0,1.0,3.0,25 mins,2 hours 16 mins,43 mins,37 mins,26 mins,leisure,yes
+751,1088,t1168,2.0,1.0,3.0,25 mins,2 hours 16 mins,44 mins,37 mins,25 mins,errand,yes
+752,1154,t1234,5.0,2.0,7.0,26 mins,2 hours 16 mins,48 mins,40 mins,26 mins,leisure,yes
+753,1155,t1235,5.0,2.0,7.0,26 mins,2 hours 16 mins,48 mins,41 mins,26 mins,commuting,yes
+754,1304,t1384,5.0,11.0,16.0,21 mins,2 hours 16 mins,27 mins,38 mins,21 mins,leisure,yes
+755,1305,t1385,5.0,10.0,15.0,21 mins,2 hours 16 mins,26 mins,39 mins,21 mins,leisure,yes
+756,67,t67,1.0,2.0,3.0,25 mins,2 hours 18 mins,41 mins,41 mins,26 mins,errand,yes
+757,68,t68,1.0,2.0,3.0,25 mins,2 hours 18 mins,41 mins,42 mins,25 mins,commuting,yes
+758,501,t501,5.0,7.0,12.0,27 mins,2 hours 18 mins,33 mins,41 mins,30 mins,commuting,yes
+759,613,t613,6.0,2.0,8.0,24 mins,2 hours 18 mins,51 mins,39 mins,26 mins,business,yes
+760,1049,t1129,2.0,6.0,8.0,25 mins,2 hours 18 mins,46 mins,40 mins,26 mins,leisure,yes
+761,1064,t1144,2.0,6.0,8.0,24 mins,2 hours 18 mins,1 hour 0 mins,36 mins,26 mins,errand,yes
+762,1087,t1167,2.0,6.0,8.0,25 mins,2 hours 18 mins,46 mins,40 mins,25 mins,errand,no
+763,1102,t1182,2.0,6.0,8.0,24 mins,2 hours 18 mins,1 hour 0 mins,36 mins,26 mins,commuting,yes
+764,1218,t1298,6.0,5.0,11.0,29 mins,2 hours 18 mins,42 mins,38 mins,28 mins,errand,no
+765,1252,t1332,7.0,5.0,12.0,26 mins,2 hours 18 mins,34 mins,44 mins,30 mins,errand,yes
+766,28,t28,6.0,2.0,8.0,25 mins,2 hours 19 mins,43 mins,41 mins,26 mins,leisure,yes
+767,220,t220,3.0,10.0,13.0,22 mins,2 hours 19 mins,40 mins,38 mins,21 mins,commuting,yes
+768,539,t539,3.0,6.0,9.0,27 mins,2 hours 19 mins,37 mins,36 mins,25 mins,commuting,yes
+769,614,t614,6.0,2.0,8.0,24 mins,2 hours 19 mins,51 mins,40 mins,26 mins,leisure,yes
+770,695,t695,5.0,6.0,11.0,30 mins,2 hours 19 mins,45 mins,40 mins,27 mins,commuting,yes
+771,1342,t1422,2.0,11.0,13.0,21 mins,2 hours 19 mins,28 mins,38 mins,20 mins,commuting,yes
+772,1343,t1423,2.0,10.0,12.0,21 mins,2 hours 19 mins,27 mins,40 mins,20 mins,errand,no
+773,469,t469,5.0,1.0,6.0,26 mins,2 hours 2 mins,29 mins,32 mins,28 mins,errand,yes
+774,1080,t1160,2.0,6.0,8.0,24 mins,2 hours 2 mins,45 mins,32 mins,20 mins,business,yes
+775,1118,t1198,2.0,6.0,8.0,24 mins,2 hours 2 mins,45 mins,32 mins,20 mins,leisure,yes
+776,29,t29,6.0,2.0,8.0,25 mins,2 hours 20 mins,44 mins,43 mins,26 mins,errand,yes
+777,219,t219,3.0,11.0,14.0,22 mins,2 hours 20 mins,40 mins,36 mins,21 mins,commuting,no
+778,1214,t1294,6.0,3.0,9.0,26 mins,2 hours 20 mins,37 mins,38 mins,23 mins,leisure,yes
+779,141,t141,4.0,11.0,15.0,28 mins,2 hours 21 mins,44 mins,38 mins,27 mins,errand,yes
+780,142,t142,4.0,10.0,14.0,28 mins,2 hours 21 mins,43 mins,39 mins,28 mins,leisure,yes
+781,980,t980,11.0,3.0,14.0,20 mins,2 hours 21 mins,39 mins,43 mins,20 mins,commuting,yes
+782,500,t500,5.0,6.0,11.0,27 mins,2 hours 22 mins,36 mins,38 mins,27 mins,errand,yes
+783,978,t978,11.0,4.0,15.0,27 mins,2 hours 22 mins,45 mins,41 mins,26 mins,commuting,yes
+784,1213,t1293,6.0,5.0,11.0,26 mins,2 hours 22 mins,36 mins,41 mins,26 mins,errand,yes
+785,103,t103,6.0,10.0,16.0,28 mins,2 hours 23 mins,43 mins,40 mins,29 mins,errand,yes
+786,102,t102,6.0,11.0,17.0,28 mins,2 hours 24 mins,43 mins,39 mins,29 mins,leisure,no
+787,977,t977,11.0,6.0,17.0,27 mins,2 hours 25 mins,44 mins,42 mins,27 mins,errand,yes
+788,50,t50,1.0,5.0,6.0,26 mins,2 hours 3 mins,28 mins,32 mins,27 mins,errand,yes
+789,51,t51,1.0,3.0,4.0,26 mins,2 hours 3 mins,29 mins,33 mins,25 mins,commuting,yes
+790,508,t508,3.0,1.0,4.0,26 mins,2 hours 3 mins,30 mins,33 mins,25 mins,errand,no
+791,882,t882,7.0,11.0,18.0,23 mins,2 hours 3 mins,33 mins,34 mins,24 mins,errand,no
+792,883,t883,7.0,10.0,17.0,23 mins,2 hours 3 mins,32 mins,35 mins,24 mins,commuting,yes
+793,1230,t1310,6.0,2.0,8.0,23 mins,2 hours 3 mins,44 mins,36 mins,20 mins,business,yes
+794,1231,t1311,6.0,2.0,8.0,23 mins,2 hours 3 mins,44 mins,36 mins,19 mins,leisure,yes
+795,468,t468,5.0,6.0,11.0,26 mins,2 hours 4 mins,32 mins,34 mins,28 mins,errand,yes
+796,844,t844,5.0,10.0,15.0,23 mins,2 hours 4 mins,28 mins,35 mins,26 mins,errand,yes
+797,997,t997,11.0,7.0,18.0,23 mins,2 hours 4 mins,35 mins,35 mins,23 mins,leisure,yes
+798,571,t571,2.0,10.0,12.0,21 mins,2 hours 41 mins,45 mins,46 mins,21 mins,errand,yes
+799,570,t570,2.0,11.0,13.0,21 mins,2 hours 42 mins,46 mins,45 mins,21 mins,leisure,yes
+800,989,t989,11.0,2.0,13.0,20 mins,2 hours 43 mins,52 mins,48 mins,21 mins,commuting,yes
+801,493,t493,5.0,10.0,15.0,29 mins,2 hours 44 mins,33 mins,44 mins,31 mins,errand,yes
+802,492,t492,5.0,11.0,16.0,29 mins,2 hours 45 mins,33 mins,43 mins,30 mins,leisure,yes
+803,532,t532,3.0,10.0,13.0,29 mins,2 hours 45 mins,33 mins,45 mins,27 mins,errand,yes
+804,987,t987,11.0,5.0,16.0,26 mins,2 hours 45 mins,34 mins,47 mins,31 mins,commuting,no
+805,531,t531,3.0,11.0,14.0,29 mins,2 hours 46 mins,34 mins,44 mins,27 mins,errand,yes
+806,988,t988,11.0,3.0,14.0,26 mins,2 hours 46 mins,35 mins,47 mins,28 mins,errand,yes
+807,11,t11,6.0,5.0,11.0,26 mins,2 hours 5 mins,30 mins,34 mins,28 mins,errand,yes
+808,12,t12,6.0,3.0,9.0,26 mins,2 hours 5 mins,31 mins,35 mins,25 mins,errand,yes
+809,507,t507,3.0,6.0,9.0,26 mins,2 hours 5 mins,32 mins,35 mins,25 mins,errand,yes
+810,843,t843,5.0,11.0,16.0,23 mins,2 hours 5 mins,29 mins,33 mins,25 mins,errand,yes
+811,1176,t1256,2.0,3.0,5.0,28 mins,2 hours 5 mins,31 mins,38 mins,25 mins,errand,yes
+812,1074,t1154,2.0,11.0,13.0,26 mins,2 hours 56 mins,47 mins,47 mins,27 mins,leisure,no
+813,1075,t1155,2.0,10.0,12.0,26 mins,2 hours 56 mins,47 mins,48 mins,27 mins,commuting,yes
+814,1113,t1193,2.0,10.0,12.0,26 mins,2 hours 56 mins,47 mins,48 mins,27 mins,errand,yes
+815,1112,t1192,2.0,11.0,13.0,26 mins,2 hours 57 mins,48 mins,47 mins,26 mins,errand,yes
+816,538,t538,3.0,2.0,5.0,28 mins,2 hours 6 mins,34 mins,36 mins,26 mins,commuting,yes
+817,996,t996,11.0,5.0,16.0,23 mins,2 hours 6 mins,30 mins,36 mins,25 mins,errand,yes
+818,766,t766,2.0,10.0,12.0,24 mins,2 hours 7 mins,34 mins,36 mins,24 mins,leisure,yes
+819,805,t805,4.0,10.0,14.0,24 mins,2 hours 7 mins,33 mins,36 mins,24 mins,commuting,yes
+820,1081,t1161,2.0,7.0,9.0,24 mins,2 hours 7 mins,44 mins,35 mins,24 mins,errand,yes
+821,1138,t1218,5.0,3.0,8.0,28 mins,2 hours 7 mins,33 mins,40 mins,26 mins,leisure,yes
+822,482,t482,5.0,6.0,11.0,24 mins,2 hours 8 mins,40 mins,33 mins,30 mins,leisure,no
+823,537,t537,3.0,5.0,8.0,28 mins,2 hours 8 mins,36 mins,37 mins,28 mins,errand,yes
+824,727,t727,7.0,10.0,17.0,26 mins,2 hours 8 mins,29 mins,36 mins,25 mins,leisure,yes
+825,765,t765,2.0,11.0,13.0,24 mins,2 hours 8 mins,34 mins,35 mins,24 mins,business,yes
+826,804,t804,4.0,11.0,15.0,24 mins,2 hours 8 mins,34 mins,35 mins,24 mins,errand,yes
+827,994,t994,11.0,2.0,13.0,24 mins,2 hours 8 mins,36 mins,37 mins,23 mins,leisure,yes
+828,995,t995,11.0,4.0,15.0,24 mins,2 hours 8 mins,36 mins,37 mins,25 mins,leisure,yes
+829,1119,t1199,2.0,7.0,9.0,24 mins,2 hours 8 mins,44 mins,35 mins,23 mins,errand,yes
+830,499,t499,5.0,2.0,7.0,28 mins,2 hours 9 mins,33 mins,36 mins,29 mins,errand,yes
+831,521,t521,3.0,6.0,9.0,24 mins,2 hours 9 mins,41 mins,34 mins,26 mins,business,yes
+832,597,t597,6.0,5.0,11.0,25 mins,2 hours 9 mins,40 mins,34 mins,31 mins,leisure,yes
+833,598,t598,6.0,3.0,9.0,25 mins,2 hours 9 mins,41 mins,34 mins,27 mins,errand,yes
+834,726,t726,7.0,11.0,18.0,26 mins,2 hours 9 mins,30 mins,34 mins,25 mins,leisure,yes
+835,993,t993,11.0,7.0,18.0,26 mins,2 hours 9 mins,32 mins,38 mins,25 mins,errand,yes
+836,1175,t1255,2.0,5.0,7.0,28 mins,2 hours 9 mins,30 mins,38 mins,28 mins,errand,no
+837,1269,t1349,7.0,2.0,9.0,23 mins,2 hours 9 mins,40 mins,40 mins,23 mins,errand,yes
+838,1270,t1350,7.0,2.0,9.0,23 mins,2 hours 9 mins,40 mins,39 mins,23 mins,leisure,yes
+839,338,t338,7.0,6.0,13.0,6 mins,30 mins,17 mins,9 mins,8 mins,leisure,no
+840,339,t339,7.0,6.0,13.0,6 mins,30 mins,17 mins,9 mins,8 mins,commuting,yes
+841,358,t358,8.0,7.0,15.0,11 mins,30 mins,22 mins,11 mins,14 mins,leisure,yes
+842,451,t451,5.0,6.0,11.0,5 mins,30 mins,17 mins,8 mins,6 mins,errand,yes
+843,452,t452,5.0,6.0,11.0,5 mins,30 mins,17 mins,8 mins,6 mins,commuting,yes
+844,902,t902,6.0,3.0,9.0,7 mins,30 mins,14 mins,11 mins,7 mins,errand,yes
+845,908,t908,6.0,5.0,11.0,5 mins,30 mins,17 mins,8 mins,6 mins,errand,yes
+846,941,t941,6.0,3.0,9.0,7 mins,30 mins,15 mins,11 mins,7 mins,leisure,no
+847,947,t947,6.0,5.0,11.0,5 mins,30 mins,18 mins,8 mins,7 mins,commuting,yes
+848,90,t90,6.0,3.0,9.0,10 mins,31 mins,18 mins,10 mins,7 mins,errand,yes
+849,281,t281,7.0,8.0,15.0,12 mins,31 mins,23 mins,10 mins,15 mins,errand,yes
+850,412,t412,6.0,6.0,12.0,5 mins,31 mins,18 mins,9 mins,9 mins,commuting,no
+851,413,t413,6.0,6.0,12.0,5 mins,31 mins,18 mins,9 mins,9 mins,leisure,yes
+852,509,t509,3.0,6.0,9.0,10 mins,31 mins,17 mins,11 mins,7 mins,errand,no
+853,907,t907,6.0,6.0,12.0,5 mins,31 mins,18 mins,9 mins,9 mins,leisure,yes
+854,946,t946,6.0,6.0,12.0,5 mins,31 mins,18 mins,9 mins,9 mins,leisure,yes
+855,1162,t1242,5.0,7.0,12.0,12 mins,31 mins,24 mins,9 mins,9 mins,errand,no
+856,1198,t1278,2.0,6.0,8.0,12 mins,31 mins,21 mins,8 mins,7 mins,errand,yes
+857,1387,t1467,6.0,2.0,8.0,10 mins,31 mins,18 mins,8 mins,7 mins,leisure,yes
+858,1464,t1544,7.0,5.0,12.0,10 mins,31 mins,19 mins,9 mins,10 mins,leisure,yes
+859,169,t169,8.0,2.0,10.0,5 mins,32 mins,16 mins,8 mins,6 mins,leisure,yes
+860,174,t174,8.0,2.0,10.0,8 mins,32 mins,15 mins,11 mins,7 mins,errand,yes
+861,177,t177,8.0,7.0,15.0,11 mins,32 mins,15 mins,11 mins,8 mins,commuting,yes
+862,550,t550,2.0,8.0,10.0,5 mins,32 mins,18 mins,10 mins,7 mins,errand,yes
+863,89,t89,6.0,5.0,11.0,10 mins,33 mins,18 mins,13 mins,11 mins,leisure,yes
+864,455,t455,5.0,6.0,11.0,11 mins,33 mins,21 mins,10 mins,9 mins,errand,yes
+865,456,t456,5.0,6.0,11.0,11 mins,33 mins,21 mins,10 mins,9 mins,errand,yes
+866,661,t661,3.0,4.0,7.0,15 mins,33 mins,30 mins,10 mins,13 mins,errand,yes
+867,745,t745,2.0,8.0,10.0,8 mins,33 mins,12 mins,10 mins,6 mins,errand,yes
+868,862,t862,7.0,8.0,15.0,11 mins,33 mins,14 mins,10 mins,7 mins,commuting,no
+869,1022,t1102,6.0,5.0,11.0,11 mins,33 mins,20 mins,9 mins,10 mins,commuting,no
+870,1160,t1240,5.0,6.0,11.0,12 mins,33 mins,25 mins,10 mins,10 mins,business,yes
+871,1386,t1466,6.0,5.0,11.0,10 mins,33 mins,23 mins,9 mins,10 mins,commuting,yes
+872,1410,t1490,4.0,3.0,7.0,12 mins,33 mins,29 mins,10 mins,12 mins,errand,yes
+873,129,t129,4.0,3.0,7.0,10 mins,34 mins,21 mins,11 mins,6 mins,errand,yes
+874,214,t214,3.0,4.0,7.0,8 mins,34 mins,20 mins,10 mins,8 mins,leisure,yes
+875,361,t361,8.0,5.0,13.0,11 mins,34 mins,18 mins,11 mins,9 mins,commuting,no
+876,388,t388,8.0,4.0,12.0,12 mins,34 mins,18 mins,12 mins,10 mins,errand,no
+877,438,t438,5.0,8.0,13.0,11 mins,34 mins,17 mins,10 mins,9 mins,leisure,yes
+878,470,t470,5.0,6.0,11.0,10 mins,34 mins,17 mins,13 mins,11 mins,commuting,yes
+879,510,t510,3.0,4.0,7.0,10 mins,34 mins,22 mins,11 mins,7 mins,leisure,yes
+880,623,t623,6.0,7.0,13.0,15 mins,34 mins,29 mins,8 mins,13 mins,errand,yes
+881,660,t660,3.0,6.0,9.0,15 mins,34 mins,31 mins,11 mins,13 mins,leisure,yes
+882,1029,t1109,6.0,7.0,13.0,9 mins,34 mins,23 mins,11 mins,10 mins,leisure,no
+883,1371,t1451,6.0,3.0,9.0,12 mins,34 mins,30 mins,9 mins,12 mins,commuting,yes
+884,1403,t1483,4.0,8.0,12.0,11 mins,34 mins,19 mins,9 mins,9 mins,commuting,yes
+885,143,t143,4.0,6.0,10.0,10 mins,35 mins,22 mins,10 mins,7 mins,commuting,yes
+886,144,t144,4.0,6.0,10.0,10 mins,35 mins,22 mins,10 mins,7 mins,leisure,yes
+887,349,t349,7.0,4.0,11.0,12 mins,35 mins,27 mins,12 mins,12 mins,commuting,no
+888,728,t728,7.0,6.0,13.0,10 mins,35 mins,21 mins,10 mins,9 mins,leisure,yes
+889,729,t729,7.0,6.0,13.0,10 mins,35 mins,21 mins,10 mins,9 mins,errand,no
+890,767,t767,2.0,6.0,8.0,10 mins,35 mins,22 mins,11 mins,9 mins,leisure,yes
+891,768,t768,2.0,6.0,8.0,10 mins,35 mins,22 mins,11 mins,9 mins,commuting,yes
+892,785,t785,4.0,3.0,7.0,8 mins,35 mins,20 mins,12 mins,8 mins,leisure,yes
+893,806,t806,4.0,6.0,10.0,10 mins,35 mins,20 mins,12 mins,10 mins,errand,no
+894,807,t807,4.0,6.0,10.0,10 mins,35 mins,20 mins,12 mins,10 mins,commuting,yes
+895,1014,t1094,6.0,4.0,10.0,10 mins,35 mins,25 mins,11 mins,8 mins,leisure,yes
+896,1030,t1110,6.0,2.0,8.0,9 mins,35 mins,19 mins,10 mins,10 mins,leisure,yes
+897,1031,t1111,6.0,4.0,10.0,9 mins,35 mins,21 mins,11 mins,11 mins,errand,no
+898,1402,t1482,4.0,7.0,11.0,11 mins,35 mins,20 mins,10 mins,12 mins,leisure,yes
+899,1448,t1528,7.0,6.0,13.0,12 mins,35 mins,35 mins,9 mins,14 mins,errand,yes
+900,128,t128,4.0,5.0,9.0,10 mins,36 mins,20 mins,13 mins,10 mins,leisure,no
+901,139,t139,4.0,6.0,10.0,10 mins,36 mins,21 mins,10 mins,11 mins,errand,yes
+902,140,t140,4.0,6.0,10.0,10 mins,36 mins,21 mins,10 mins,11 mins,leisure,yes
+903,900,t900,6.0,4.0,10.0,9 mins,36 mins,25 mins,10 mins,10 mins,errand,no
+904,939,t939,6.0,4.0,10.0,9 mins,36 mins,26 mins,10 mins,11 mins,leisure,yes
+905,1199,t1279,2.0,4.0,6.0,12 mins,36 mins,23 mins,10 mins,10 mins,leisure,yes
+906,1426,t1506,4.0,2.0,6.0,10 mins,36 mins,21 mins,10 mins,10 mins,errand,no
+907,45,t45,1.0,7.0,8.0,10 mins,37 mins,20 mins,9 mins,11 mins,leisure,yes
+908,104,t104,6.0,6.0,12.0,10 mins,37 mins,19 mins,11 mins,9 mins,leisure,no
+909,105,t105,6.0,6.0,12.0,10 mins,37 mins,19 mins,11 mins,9 mins,leisure,yes
+910,176,t176,8.0,5.0,13.0,11 mins,37 mins,22 mins,12 mins,9 mins,business,yes
+911,216,t216,3.0,7.0,10.0,11 mins,37 mins,22 mins,11 mins,8 mins,leisure,yes
+912,371,t371,8.0,5.0,13.0,8 mins,37 mins,13 mins,13 mins,10 mins,errand,yes
+913,387,t387,8.0,6.0,14.0,12 mins,37 mins,23 mins,13 mins,11 mins,commuting,yes
+914,471,t471,5.0,4.0,9.0,10 mins,37 mins,23 mins,13 mins,10 mins,leisure,yes
+915,828,t828,5.0,8.0,13.0,8 mins,37 mins,14 mins,10 mins,7 mins,business,yes
+916,1013,t1093,6.0,6.0,12.0,10 mins,37 mins,23 mins,12 mins,9 mins,leisure,yes
+917,1364,t1444,6.0,8.0,14.0,11 mins,37 mins,19 mins,10 mins,10 mins,business,yes
+918,44,t44,1.0,8.0,9.0,10 mins,38 mins,20 mins,9 mins,10 mins,commuting,yes
+919,100,t100,6.0,6.0,12.0,10 mins,38 mins,22 mins,10 mins,12 mins,errand,yes
+920,101,t101,6.0,6.0,12.0,10 mins,38 mins,23 mins,10 mins,12 mins,leisure,yes
+921,213,t213,3.0,2.0,5.0,8 mins,38 mins,20 mins,10 mins,8 mins,commuting,no
+922,235,t235,8.0,1.0,9.0,10 mins,38 mins,23 mins,9 mins,11 mins,errand,yes
+923,274,t274,7.0,1.0,8.0,10 mins,38 mins,23 mins,9 mins,12 mins,business,yes
+924,322,t322,7.0,5.0,12.0,11 mins,38 mins,18 mins,12 mins,11 mins,errand,no
+925,348,t348,7.0,6.0,13.0,12 mins,38 mins,19 mins,11 mins,12 mins,leisure,yes
+926,437,t437,5.0,7.0,12.0,11 mins,38 mins,17 mins,11 mins,12 mins,leisure,yes
+927,823,t823,5.0,8.0,13.0,11 mins,38 mins,18 mins,11 mins,9 mins,commuting,yes
+928,934,t934,6.0,4.0,10.0,10 mins,38 mins,20 mins,11 mins,9 mins,leisure,yes
+929,938,t938,6.0,6.0,12.0,9 mins,38 mins,28 mins,10 mins,11 mins,business,yes
+930,973,t973,6.0,4.0,10.0,10 mins,38 mins,21 mins,11 mins,9 mins,leisure,yes
+931,1009,t1089,6.0,4.0,10.0,12 mins,38 mins,23 mins,12 mins,11 mins,leisure,yes
+932,1047,t1127,6.0,4.0,10.0,12 mins,38 mins,23 mins,12 mins,11 mins,errand,yes
+933,1161,t1241,5.0,4.0,9.0,12 mins,38 mins,27 mins,11 mins,12 mins,commuting,yes
+934,1363,t1443,6.0,7.0,13.0,11 mins,38 mins,20 mins,11 mins,14 mins,leisure,yes
+935,1417,t1497,4.0,6.0,10.0,10 mins,38 mins,21 mins,11 mins,8 mins,leisure,no
+936,1418,t1498,4.0,6.0,10.0,10 mins,38 mins,21 mins,11 mins,8 mins,leisure,yes
+937,1421,t1501,4.0,6.0,10.0,13 mins,38 mins,26 mins,13 mins,11 mins,errand,no
+938,1422,t1502,4.0,6.0,10.0,13 mins,38 mins,26 mins,13 mins,11 mins,commuting,no
+939,1425,t1505,4.0,5.0,9.0,10 mins,38 mins,25 mins,11 mins,13 mins,commuting,yes
+940,350,t350,7.0,7.0,14.0,12 mins,39 mins,15 mins,13 mins,12 mins,leisure,yes
+941,360,t360,8.0,6.0,14.0,11 mins,39 mins,19 mins,15 mins,13 mins,errand,yes
+942,389,t389,8.0,7.0,15.0,12 mins,39 mins,22 mins,14 mins,11 mins,leisure,yes
+943,399,t399,6.0,8.0,14.0,11 mins,39 mins,17 mins,11 mins,13 mins,errand,no
+944,416,t416,6.0,6.0,12.0,11 mins,39 mins,23 mins,12 mins,13 mins,leisure,yes
+945,417,t417,6.0,6.0,12.0,11 mins,39 mins,23 mins,12 mins,13 mins,leisure,yes
+946,421,t421,6.0,2.0,8.0,11 mins,39 mins,15 mins,11 mins,10 mins,leisure,no
+947,450,t450,5.0,7.0,12.0,10 mins,39 mins,21 mins,10 mins,9 mins,leisure,yes
+948,654,t654,3.0,5.0,8.0,11 mins,39 mins,30 mins,12 mins,9 mins,commuting,yes
+949,655,t655,3.0,2.0,5.0,11 mins,39 mins,28 mins,11 mins,9 mins,leisure,yes
+950,746,t746,2.0,3.0,5.0,8 mins,39 mins,19 mins,13 mins,7 mins,commuting,yes
+951,863,t863,7.0,3.0,10.0,11 mins,39 mins,20 mins,13 mins,9 mins,errand,yes
+952,869,t869,7.0,5.0,12.0,9 mins,39 mins,21 mins,11 mins,9 mins,leisure,yes
+953,899,t899,6.0,6.0,12.0,9 mins,39 mins,27 mins,10 mins,11 mins,leisure,yes
+954,962,t962,6.0,6.0,12.0,10 mins,39 mins,28 mins,11 mins,11 mins,errand,yes
+955,963,t963,6.0,6.0,12.0,10 mins,39 mins,28 mins,11 mins,11 mins,errand,yes
+956,1021,t1101,6.0,6.0,12.0,11 mins,39 mins,21 mins,13 mins,14 mins,errand,yes
+957,1028,t1108,6.0,5.0,11.0,9 mins,39 mins,24 mins,14 mins,12 mins,commuting,no
+958,1034,t1114,6.0,6.0,12.0,9 mins,39 mins,25 mins,10 mins,11 mins,business,yes
+959,1035,t1115,6.0,6.0,12.0,9 mins,39 mins,25 mins,10 mins,11 mins,errand,yes
+960,1141,t1221,5.0,3.0,8.0,12 mins,39 mins,30 mins,12 mins,9 mins,errand,yes
+961,1173,t1253,2.0,6.0,8.0,12 mins,39 mins,16 mins,12 mins,10 mins,commuting,yes
+962,1179,t1259,2.0,3.0,5.0,12 mins,39 mins,33 mins,10 mins,9 mins,commuting,yes
+963,1441,t1521,7.0,7.0,14.0,11 mins,39 mins,16 mins,12 mins,12 mins,commuting,yes
+964,1442,t1522,7.0,8.0,15.0,11 mins,39 mins,21 mins,11 mins,11 mins,leisure,yes
+965,6,t6,6.0,7.0,13.0,10 mins,40 mins,20 mins,12 mins,13 mins,commuting,yes
+966,273,t273,7.0,6.0,13.0,10 mins,40 mins,25 mins,11 mins,13 mins,leisure,yes
+967,398,t398,6.0,7.0,13.0,11 mins,40 mins,19 mins,12 mins,17 mins,commuting,yes
+968,405,t405,6.0,3.0,9.0,14 mins,40 mins,32 mins,12 mins,15 mins,leisure,yes
+969,622,t622,6.0,4.0,10.0,15 mins,40 mins,30 mins,12 mins,16 mins,errand,yes
+970,634,t634,3.0,6.0,9.0,15 mins,40 mins,33 mins,15 mins,16 mins,leisure,yes
+971,689,t689,5.0,6.0,11.0,10 mins,40 mins,22 mins,11 mins,10 mins,commuting,yes
+972,690,t690,5.0,6.0,11.0,10 mins,40 mins,22 mins,11 mins,10 mins,business,yes
+973,923,t923,6.0,6.0,12.0,10 mins,40 mins,34 mins,11 mins,10 mins,commuting,no
+974,924,t924,6.0,6.0,12.0,10 mins,40 mins,34 mins,11 mins,10 mins,leisure,yes
+975,931,t931,6.0,5.0,11.0,10 mins,40 mins,19 mins,13 mins,9 mins,leisure,no
+976,932,t932,6.0,2.0,8.0,10 mins,40 mins,19 mins,14 mins,9 mins,leisure,no
+977,933,t933,6.0,6.0,12.0,10 mins,40 mins,19 mins,12 mins,10 mins,errand,yes
+978,971,t971,6.0,2.0,8.0,10 mins,40 mins,20 mins,14 mins,10 mins,errand,yes
+979,972,t972,6.0,6.0,12.0,10 mins,40 mins,19 mins,12 mins,10 mins,errand,yes
+980,1052,t1132,2.0,4.0,6.0,12 mins,40 mins,24 mins,10 mins,7 mins,commuting,yes
+981,1090,t1170,2.0,4.0,6.0,12 mins,40 mins,24 mins,10 mins,7 mins,errand,yes
+982,1302,t1382,5.0,6.0,11.0,10 mins,40 mins,20 mins,12 mins,8 mins,leisure,yes
+983,1340,t1420,2.0,6.0,8.0,10 mins,40 mins,21 mins,11 mins,8 mins,errand,no
+984,1341,t1421,2.0,6.0,8.0,10 mins,40 mins,21 mins,11 mins,9 mins,leisure,yes
+985,1378,t1458,6.0,6.0,12.0,10 mins,40 mins,21 mins,11 mins,9 mins,leisure,yes
+986,1379,t1459,6.0,6.0,12.0,10 mins,40 mins,21 mins,11 mins,9 mins,commuting,yes
+987,5,t5,6.0,8.0,14.0,10 mins,41 mins,20 mins,12 mins,12 mins,leisure,yes
+988,145,t145,4.0,2.0,6.0,10 mins,41 mins,24 mins,13 mins,9 mins,errand,no
+989,146,t146,4.0,2.0,6.0,10 mins,41 mins,24 mins,14 mins,9 mins,errand,yes
+990,234,t234,8.0,6.0,14.0,10 mins,41 mins,25 mins,11 mins,12 mins,business,yes
+991,321,t321,7.0,6.0,13.0,11 mins,41 mins,18 mins,15 mins,15 mins,leisure,yes
+992,372,t372,8.0,7.0,15.0,8 mins,41 mins,20 mins,12 mins,9 mins,leisure,yes
+993,411,t411,6.0,7.0,13.0,10 mins,41 mins,16 mins,12 mins,12 mins,leisure,yes
+994,420,t420,6.0,5.0,11.0,11 mins,41 mins,19 mins,12 mins,13 mins,commuting,yes
+995,444,t444,5.0,3.0,8.0,14 mins,41 mins,35 mins,14 mins,13 mins,commuting,yes
+996,460,t460,5.0,2.0,7.0,11 mins,41 mins,21 mins,12 mins,10 mins,errand,yes
+997,635,t635,3.0,5.0,8.0,15 mins,41 mins,35 mins,12 mins,14 mins,leisure,yes
+998,830,t830,5.0,5.0,10.0,9 mins,41 mins,20 mins,12 mins,10 mins,errand,yes
+999,867,t867,7.0,8.0,15.0,8 mins,41 mins,21 mins,11 mins,9 mins,leisure,yes
+1000,868,t868,7.0,6.0,13.0,9 mins,41 mins,15 mins,12 mins,12 mins,commuting,yes
+1001,970,t970,6.0,5.0,11.0,10 mins,41 mins,19 mins,13 mins,10 mins,leisure,yes
+1002,1135,t1215,5.0,6.0,11.0,12 mins,41 mins,20 mins,13 mins,12 mins,leisure,yes
+1003,1174,t1254,2.0,5.0,7.0,12 mins,41 mins,21 mins,11 mins,10 mins,errand,yes
+1004,1303,t1383,5.0,6.0,11.0,10 mins,41 mins,21 mins,12 mins,9 mins,commuting,no
+1005,1409,t1489,4.0,6.0,10.0,12 mins,41 mins,36 mins,12 mins,16 mins,commuting,yes
+1006,327,t327,7.0,3.0,10.0,14 mins,42 mins,26 mins,12 mins,11 mins,leisure,yes
+1007,449,t449,5.0,5.0,10.0,10 mins,42 mins,21 mins,11 mins,11 mins,errand,yes
+1008,615,t615,6.0,5.0,11.0,11 mins,42 mins,32 mins,13 mins,9 mins,leisure,yes
+1009,621,t621,6.0,6.0,12.0,15 mins,42 mins,28 mins,13 mins,14 mins,leisure,yes
+1010,632,t632,3.0,7.0,10.0,15 mins,42 mins,25 mins,11 mins,13 mins,errand,no
+1011,837,t837,5.0,7.0,12.0,11 mins,42 mins,20 mins,14 mins,10 mins,errand,yes
+1012,1051,t1131,2.0,6.0,8.0,12 mins,42 mins,25 mins,10 mins,9 mins,errand,yes
+1013,1062,t1142,2.0,3.0,5.0,11 mins,42 mins,24 mins,12 mins,8 mins,errand,yes
+1014,1089,t1169,2.0,6.0,8.0,12 mins,42 mins,26 mins,10 mins,9 mins,commuting,yes
+1015,1100,t1180,2.0,3.0,5.0,11 mins,42 mins,24 mins,12 mins,8 mins,leisure,yes
+1016,1140,t1220,5.0,6.0,11.0,12 mins,42 mins,32 mins,13 mins,9 mins,leisure,no
+1017,1370,t1450,6.0,6.0,12.0,12 mins,42 mins,38 mins,11 mins,14 mins,commuting,yes
+1018,106,t106,6.0,2.0,8.0,10 mins,43 mins,26 mins,13 mins,10 mins,errand,no
+1019,107,t107,6.0,2.0,8.0,10 mins,43 mins,27 mins,14 mins,9 mins,leisure,yes
+1020,165,t165,8.0,6.0,14.0,9 mins,43 mins,24 mins,13 mins,11 mins,commuting,yes
+1021,215,t215,3.0,5.0,8.0,11 mins,43 mins,23 mins,12 mins,10 mins,leisure,yes
+1022,313,t313,7.0,1.0,8.0,13 mins,43 mins,13 mins,12 mins,11 mins,commuting,yes
+1023,368,t368,8.0,7.0,15.0,9 mins,43 mins,19 mins,13 mins,8 mins,errand,no
+1024,447,t447,5.0,2.0,7.0,9 mins,43 mins,23 mins,12 mins,9 mins,leisure,yes
+1025,448,t448,5.0,4.0,9.0,9 mins,43 mins,22 mins,12 mins,11 mins,errand,no
+1026,459,t459,5.0,5.0,10.0,11 mins,43 mins,26 mins,12 mins,13 mins,leisure,yes
+1027,711,t711,7.0,8.0,15.0,9 mins,43 mins,19 mins,12 mins,8 mins,leisure,yes
+1028,722,t722,7.0,5.0,12.0,11 mins,43 mins,19 mins,17 mins,11 mins,errand,yes
+1029,752,t752,2.0,5.0,7.0,10 mins,43 mins,23 mins,12 mins,10 mins,errand,yes
+1030,791,t791,4.0,5.0,9.0,10 mins,43 mins,22 mins,12 mins,10 mins,leisure,yes
+1031,1136,t1216,5.0,5.0,10.0,12 mins,43 mins,26 mins,13 mins,12 mins,leisure,yes
+1032,1195,t1275,2.0,7.0,9.0,10 mins,43 mins,26 mins,11 mins,9 mins,commuting,yes
+1033,1272,t1352,7.0,2.0,9.0,11 mins,43 mins,23 mins,12 mins,10 mins,business,no
+1034,15,t15,6.0,3.0,9.0,13 mins,44 mins,19 mins,14 mins,11 mins,errand,yes
+1035,46,t46,1.0,7.0,8.0,14 mins,44 mins,13 mins,12 mins,13 mins,leisure,yes
+1036,95,t95,6.0,7.0,13.0,13 mins,44 mins,30 mins,12 mins,11 mins,business,no
+1037,166,t166,8.0,5.0,13.0,9 mins,44 mins,21 mins,12 mins,9 mins,leisure,yes
+1038,251,t251,8.0,7.0,15.0,18 mins,44 mins,30 mins,17 mins,18 mins,errand,yes
+1039,329,t329,7.0,7.0,14.0,9 mins,44 mins,15 mins,14 mins,11 mins,leisure,no
+1040,373,t373,8.0,6.0,14.0,11 mins,44 mins,21 mins,14 mins,10 mins,leisure,no
+1041,374,t374,8.0,6.0,14.0,11 mins,44 mins,22 mins,14 mins,10 mins,errand,yes
+1042,394,t394,6.0,8.0,14.0,10 mins,44 mins,20 mins,13 mins,12 mins,leisure,no
+1043,408,t408,6.0,2.0,8.0,9 mins,44 mins,17 mins,13 mins,12 mins,leisure,yes
+1044,409,t409,6.0,4.0,10.0,9 mins,44 mins,16 mins,13 mins,14 mins,leisure,no
+1045,535,t535,3.0,2.0,5.0,10 mins,44 mins,29 mins,15 mins,11 mins,errand,no
+1046,536,t536,3.0,2.0,5.0,10 mins,44 mins,29 mins,16 mins,10 mins,errand,yes
+1047,708,t708,7.0,8.0,15.0,18 mins,44 mins,29 mins,17 mins,17 mins,commuting,yes
+1048,710,t710,7.0,7.0,14.0,9 mins,44 mins,15 mins,12 mins,8 mins,commuting,no
+1049,790,t790,4.0,6.0,10.0,10 mins,44 mins,16 mins,15 mins,12 mins,commuting,yes
+1050,824,t824,5.0,3.0,8.0,11 mins,44 mins,25 mins,14 mins,10 mins,commuting,yes
+1051,906,t906,6.0,8.0,14.0,11 mins,44 mins,23 mins,12 mins,11 mins,leisure,yes
+1052,945,t945,6.0,8.0,14.0,11 mins,44 mins,24 mins,12 mins,11 mins,leisure,yes
+1053,1008,t1088,6.0,6.0,12.0,12 mins,44 mins,21 mins,14 mins,11 mins,commuting,yes
+1054,1046,t1126,6.0,6.0,12.0,12 mins,44 mins,21 mins,14 mins,11 mins,leisure,yes
+1055,1157,t1237,5.0,7.0,12.0,10 mins,44 mins,23 mins,11 mins,12 mins,commuting,yes
+1056,1271,t1351,7.0,5.0,12.0,11 mins,44 mins,26 mins,12 mins,12 mins,commuting,yes
+1057,1382,t1462,6.0,6.0,12.0,13 mins,44 mins,23 mins,14 mins,12 mins,commuting,yes
+1058,1383,t1463,6.0,6.0,12.0,13 mins,44 mins,23 mins,14 mins,12 mins,commuting,yes
+1059,7,t7,6.0,7.0,13.0,14 mins,45 mins,15 mins,14 mins,13 mins,errand,yes
+1060,312,t312,7.0,6.0,13.0,13 mins,45 mins,15 mins,15 mins,12 mins,errand,yes
+1061,370,t370,8.0,4.0,12.0,12 mins,45 mins,21 mins,14 mins,12 mins,errand,no
+1062,410,t410,6.0,5.0,11.0,10 mins,45 mins,15 mins,13 mins,14 mins,leisure,yes
+1063,433,t433,5.0,8.0,13.0,10 mins,45 mins,20 mins,12 mins,9 mins,errand,yes
+1064,485,t485,5.0,7.0,12.0,10 mins,45 mins,16 mins,12 mins,11 mins,leisure,yes
+1065,616,t616,6.0,2.0,8.0,11 mins,45 mins,27 mins,14 mins,9 mins,errand,no
+1066,624,t624,3.0,6.0,9.0,13 mins,45 mins,22 mins,15 mins,13 mins,leisure,yes
+1067,704,t704,7.0,6.0,13.0,13 mins,45 mins,26 mins,15 mins,10 mins,leisure,no
+1068,714,t714,7.0,5.0,12.0,10 mins,45 mins,19 mins,13 mins,10 mins,errand,yes
+1069,751,t751,2.0,6.0,8.0,10 mins,45 mins,17 mins,15 mins,12 mins,leisure,no
+1070,789,t789,4.0,8.0,12.0,12 mins,45 mins,24 mins,12 mins,12 mins,leisure,yes
+1071,827,t827,5.0,7.0,12.0,8 mins,45 mins,15 mins,12 mins,10 mins,commuting,yes
+1072,829,t829,5.0,6.0,11.0,9 mins,45 mins,15 mins,14 mins,12 mins,business,yes
+1073,1061,t1141,2.0,5.0,7.0,11 mins,45 mins,28 mins,15 mins,11 mins,errand,yes
+1074,1099,t1179,2.0,5.0,7.0,11 mins,45 mins,27 mins,15 mins,11 mins,leisure,yes
+1075,1178,t1258,2.0,6.0,8.0,12 mins,45 mins,28 mins,14 mins,9 mins,errand,no
+1076,1233,t1313,6.0,2.0,8.0,11 mins,45 mins,22 mins,11 mins,8 mins,errand,yes
+1077,54,t54,1.0,3.0,4.0,13 mins,46 mins,24 mins,14 mins,13 mins,errand,yes
+1078,134,t134,4.0,7.0,11.0,13 mins,46 mins,29 mins,15 mins,10 mins,leisure,yes
+1079,249,t249,8.0,3.0,11.0,13 mins,46 mins,35 mins,13 mins,13 mins,leisure,no
+1080,290,t290,7.0,7.0,14.0,18 mins,46 mins,30 mins,17 mins,19 mins,errand,no
+1081,332,t332,7.0,5.0,12.0,8 mins,46 mins,15 mins,14 mins,13 mins,leisure,yes
+1082,369,t369,8.0,2.0,10.0,12 mins,46 mins,22 mins,14 mins,11 mins,leisure,yes
+1083,496,t496,5.0,2.0,7.0,10 mins,46 mins,28 mins,17 mins,15 mins,errand,yes
+1084,625,t625,3.0,1.0,4.0,13 mins,46 mins,26 mins,14 mins,13 mins,errand,yes
+1085,630,t630,3.0,8.0,11.0,14 mins,46 mins,40 mins,13 mins,14 mins,errand,no
+1086,709,t709,7.0,7.0,14.0,18 mins,46 mins,30 mins,18 mins,18 mins,leisure,yes
+1087,750,t750,2.0,8.0,10.0,12 mins,46 mins,25 mins,13 mins,11 mins,errand,no
+1088,895,t895,7.0,4.0,11.0,14 mins,46 mins,22 mins,13 mins,12 mins,leisure,yes
+1089,935,t935,6.0,7.0,13.0,10 mins,46 mins,19 mins,14 mins,11 mins,errand,yes
+1090,974,t974,6.0,7.0,13.0,10 mins,46 mins,19 mins,14 mins,11 mins,errand,yes
+1091,1194,t1274,2.0,6.0,8.0,10 mins,46 mins,25 mins,12 mins,8 mins,errand,yes
+1092,1232,t1312,6.0,5.0,11.0,11 mins,46 mins,24 mins,11 mins,10 mins,errand,yes
+1093,1289,t1369,5.0,6.0,11.0,11 mins,46 mins,16 mins,12 mins,11 mins,errand,yes
+1094,1456,t1536,7.0,6.0,13.0,10 mins,46 mins,19 mins,14 mins,11 mins,leisure,yes
+1095,1457,t1537,7.0,6.0,13.0,10 mins,46 mins,19 mins,14 mins,11 mins,commuting,yes
+1096,14,t14,6.0,6.0,12.0,13 mins,47 mins,36 mins,12 mins,13 mins,errand,yes
+1097,333,t333,7.0,7.0,14.0,8 mins,47 mins,20 mins,13 mins,12 mins,errand,no
+1098,424,t424,6.0,5.0,11.0,12 mins,47 mins,15 mins,13 mins,13 mins,errand,yes
+1099,497,t497,5.0,2.0,7.0,10 mins,47 mins,29 mins,17 mins,14 mins,commuting,yes
+1100,524,t524,3.0,7.0,10.0,10 mins,47 mins,17 mins,13 mins,8 mins,commuting,no
+1101,585,t585,6.0,6.0,12.0,13 mins,47 mins,20 mins,13 mins,14 mins,errand,yes
+1102,705,t705,7.0,4.0,11.0,13 mins,47 mins,24 mins,15 mins,10 mins,leisure,yes
+1103,715,t715,7.0,3.0,10.0,10 mins,47 mins,20 mins,13 mins,7 mins,commuting,yes
+1104,815,t815,4.0,2.0,6.0,11 mins,47 mins,19 mins,16 mins,10 mins,commuting,yes
+1105,836,t836,5.0,5.0,10.0,11 mins,47 mins,21 mins,16 mins,12 mins,leisure,yes
+1106,866,t866,7.0,7.0,14.0,8 mins,47 mins,20 mins,12 mins,12 mins,commuting,yes
+1107,1156,t1236,5.0,6.0,11.0,10 mins,47 mins,27 mins,12 mins,11 mins,leisure,yes
+1108,1235,t1315,6.0,5.0,11.0,12 mins,47 mins,16 mins,12 mins,8 mins,commuting,yes
+1109,1299,t1379,5.0,4.0,9.0,11 mins,47 mins,21 mins,15 mins,11 mins,leisure,yes
+1110,1312,t1392,5.0,6.0,11.0,13 mins,47 mins,17 mins,12 mins,8 mins,leisure,no
+1111,1337,t1417,2.0,4.0,6.0,11 mins,47 mins,22 mins,15 mins,11 mins,errand,no
+1112,1416,t1496,4.0,7.0,11.0,15 mins,47 mins,22 mins,13 mins,11 mins,commuting,yes
+1113,159,t159,8.0,4.0,12.0,10 mins,48 mins,24 mins,15 mins,10 mins,leisure,yes
+1114,288,t288,7.0,3.0,10.0,13 mins,48 mins,35 mins,13 mins,13 mins,leisure,yes
+1115,366,t366,8.0,3.0,11.0,14 mins,48 mins,29 mins,15 mins,13 mins,leisure,yes
+1116,367,t367,8.0,5.0,13.0,9 mins,48 mins,21 mins,15 mins,10 mins,commuting,yes
+1117,404,t404,6.0,6.0,12.0,14 mins,48 mins,40 mins,14 mins,18 mins,errand,no
+1118,595,t595,6.0,6.0,12.0,15 mins,48 mins,33 mins,17 mins,16 mins,commuting,yes
+1119,631,t631,3.0,7.0,10.0,14 mins,48 mins,42 mins,13 mins,15 mins,business,yes
+1120,633,t633,3.0,8.0,11.0,15 mins,48 mins,28 mins,14 mins,13 mins,commuting,no
+1121,672,t672,5.0,8.0,13.0,9 mins,48 mins,22 mins,13 mins,9 mins,leisure,no
+1122,683,t683,5.0,5.0,10.0,11 mins,48 mins,20 mins,18 mins,12 mins,leisure,yes
+1123,814,t814,4.0,5.0,9.0,11 mins,48 mins,19 mins,16 mins,10 mins,leisure,yes
+1124,876,t876,7.0,7.0,14.0,11 mins,48 mins,23 mins,16 mins,12 mins,leisure,no
+1125,1010,t1090,6.0,7.0,13.0,12 mins,48 mins,28 mins,15 mins,13 mins,leisure,yes
+1126,1017,t1097,6.0,8.0,14.0,17 mins,48 mins,32 mins,14 mins,17 mins,commuting,no
+1127,1048,t1128,6.0,7.0,13.0,12 mins,48 mins,28 mins,15 mins,13 mins,leisure,yes
+1128,1068,t1148,2.0,2.0,4.0,12 mins,48 mins,20 mins,12 mins,10 mins,errand,yes
+1129,94,t94,6.0,5.0,11.0,13 mins,49 mins,35 mins,17 mins,13 mins,commuting,yes
+1130,120,t120,4.0,8.0,12.0,10 mins,49 mins,23 mins,14 mins,9 mins,commuting,no
+1131,193,t193,8.0,4.0,12.0,15 mins,49 mins,27 mins,15 mins,11 mins,commuting,no
+1132,204,t204,3.0,6.0,9.0,9 mins,49 mins,25 mins,13 mins,12 mins,errand,yes
+1133,250,t250,8.0,5.0,13.0,18 mins,49 mins,31 mins,19 mins,20 mins,commuting,yes
+1134,260,t260,8.0,6.0,14.0,18 mins,49 mins,30 mins,14 mins,17 mins,errand,yes
+1135,261,t261,8.0,6.0,14.0,18 mins,49 mins,30 mins,14 mins,17 mins,leisure,no
+1136,328,t328,7.0,5.0,12.0,9 mins,49 mins,16 mins,16 mins,13 mins,leisure,no
+1137,352,t352,8.0,1.0,9.0,13 mins,49 mins,17 mins,17 mins,15 mins,leisure,yes
+1138,443,t443,5.0,6.0,11.0,14 mins,49 mins,41 mins,16 mins,16 mins,errand,yes
+1139,596,t596,6.0,5.0,11.0,15 mins,49 mins,33 mins,14 mins,16 mins,errand,yes
+1140,610,t610,6.0,10.0,16.0,11 mins,49 mins,25 mins,13 mins,8 mins,leisure,yes
+1141,669,t669,5.0,8.0,13.0,18 mins,49 mins,30 mins,18 mins,18 mins,errand,yes
+1142,671,t671,5.0,7.0,12.0,9 mins,49 mins,16 mins,13 mins,9 mins,leisure,yes
+1143,723,t723,7.0,7.0,14.0,11 mins,49 mins,24 mins,17 mins,12 mins,commuting,yes
+1144,832,t832,5.0,3.0,8.0,10 mins,49 mins,17 mins,16 mins,9 mins,commuting,yes
+1145,856,t856,5.0,4.0,9.0,14 mins,49 mins,21 mins,15 mins,12 mins,leisure,no
+1146,894,t894,7.0,6.0,13.0,14 mins,49 mins,18 mins,15 mins,13 mins,leisure,yes
+1147,1106,t1186,2.0,2.0,4.0,12 mins,49 mins,20 mins,12 mins,10 mins,errand,yes
+1148,1327,t1407,2.0,6.0,8.0,11 mins,49 mins,19 mins,13 mins,12 mins,errand,yes
+1149,1377,t1457,6.0,7.0,13.0,15 mins,49 mins,18 mins,14 mins,12 mins,leisure,yes
+1150,1415,t1495,4.0,5.0,9.0,15 mins,49 mins,21 mins,14 mins,13 mins,leisure,yes
+1151,1460,t1540,7.0,6.0,13.0,13 mins,49 mins,28 mins,15 mins,13 mins,leisure,yes
+1152,1461,t1541,7.0,6.0,13.0,13 mins,49 mins,28 mins,15 mins,13 mins,errand,yes
+1153,47,t47,1.0,8.0,9.0,14 mins,50 mins,17 mins,15 mins,16 mins,leisure,no
+1154,53,t53,1.0,6.0,7.0,13 mins,50 mins,39 mins,15 mins,14 mins,errand,no
+1155,158,t158,8.0,6.0,14.0,10 mins,50 mins,25 mins,15 mins,11 mins,commuting,yes
+1156,205,t205,3.0,5.0,8.0,9 mins,50 mins,22 mins,13 mins,9 mins,errand,yes
+1157,326,t326,7.0,6.0,13.0,14 mins,50 mins,28 mins,14 mins,14 mins,commuting,yes
+1158,334,t334,7.0,6.0,13.0,11 mins,50 mins,24 mins,14 mins,12 mins,errand,yes
+1159,335,t335,7.0,6.0,13.0,11 mins,50 mins,25 mins,14 mins,12 mins,leisure,yes
+1160,425,t425,6.0,2.0,8.0,12 mins,50 mins,23 mins,14 mins,14 mins,leisure,no
+1161,484,t484,5.0,5.0,10.0,10 mins,50 mins,18 mins,15 mins,13 mins,leisure,yes
+1162,527,t527,3.0,5.0,8.0,10 mins,50 mins,16 mins,14 mins,9 mins,leisure,no
+1163,586,t586,6.0,1.0,7.0,13 mins,50 mins,24 mins,15 mins,14 mins,commuting,yes
+1164,593,t593,6.0,7.0,13.0,15 mins,50 mins,24 mins,13 mins,16 mins,errand,no
+1165,609,t609,6.0,11.0,17.0,11 mins,50 mins,26 mins,11 mins,8 mins,business,yes
+1166,665,t665,5.0,6.0,11.0,13 mins,50 mins,33 mins,16 mins,11 mins,errand,yes
+1167,769,t769,2.0,2.0,4.0,11 mins,50 mins,18 mins,16 mins,11 mins,errand,yes
+1168,770,t770,2.0,2.0,4.0,11 mins,50 mins,19 mins,17 mins,11 mins,commuting,no
+1169,905,t905,6.0,7.0,13.0,11 mins,50 mins,28 mins,13 mins,14 mins,leisure,yes
+1170,944,t944,6.0,7.0,13.0,11 mins,50 mins,28 mins,13 mins,14 mins,commuting,yes
+1171,990,t990,11.0,6.0,17.0,9 mins,50 mins,20 mins,14 mins,8 mins,errand,yes
+1172,1018,t1098,6.0,7.0,13.0,17 mins,50 mins,32 mins,14 mins,18 mins,errand,yes
+1173,1069,t1149,2.0,4.0,6.0,12 mins,50 mins,23 mins,12 mins,10 mins,leisure,yes
+1174,1107,t1187,2.0,4.0,6.0,12 mins,50 mins,23 mins,12 mins,11 mins,leisure,yes
+1175,1236,t1316,6.0,2.0,8.0,12 mins,50 mins,19 mins,13 mins,9 mins,leisure,yes
+1176,1339,t1419,2.0,7.0,9.0,13 mins,50 mins,21 mins,15 mins,11 mins,leisure,yes
+1177,1350,t1430,2.0,6.0,8.0,13 mins,50 mins,21 mins,12 mins,9 mins,errand,yes
+1178,8,t8,6.0,8.0,14.0,14 mins,51 mins,19 mins,18 mins,16 mins,leisure,yes
+1179,81,t81,6.0,8.0,14.0,10 mins,51 mins,25 mins,14 mins,10 mins,leisure,yes
+1180,133,t133,4.0,5.0,9.0,13 mins,51 mins,37 mins,17 mins,12 mins,leisure,yes
+1181,192,t192,8.0,6.0,14.0,15 mins,51 mins,26 mins,16 mins,12 mins,errand,yes
+1182,289,t289,7.0,5.0,12.0,18 mins,51 mins,31 mins,19 mins,21 mins,errand,yes
+1183,299,t299,7.0,6.0,13.0,18 mins,51 mins,30 mins,15 mins,18 mins,errand,no
+1184,300,t300,7.0,6.0,13.0,18 mins,51 mins,30 mins,15 mins,18 mins,commuting,no
+1185,331,t331,7.0,4.0,11.0,12 mins,51 mins,21 mins,14 mins,16 mins,commuting,no
+1186,351,t351,8.0,6.0,14.0,13 mins,51 mins,20 mins,19 mins,16 mins,errand,yes
+1187,395,t395,6.0,3.0,9.0,10 mins,51 mins,22 mins,17 mins,14 mins,commuting,yes
+1188,463,t463,5.0,5.0,10.0,12 mins,51 mins,19 mins,14 mins,11 mins,errand,no
+1189,525,t525,3.0,2.0,5.0,11 mins,51 mins,15 mins,16 mins,11 mins,commuting,yes
+1190,565,t565,2.0,4.0,6.0,12 mins,51 mins,26 mins,14 mins,12 mins,errand,no
+1191,670,t670,5.0,7.0,12.0,18 mins,51 mins,31 mins,19 mins,19 mins,leisure,yes
+1192,675,t675,5.0,5.0,10.0,10 mins,51 mins,22 mins,14 mins,11 mins,leisure,yes
+1193,754,t754,2.0,3.0,5.0,11 mins,51 mins,17 mins,15 mins,10 mins,business,yes
+1194,776,t776,2.0,2.0,4.0,11 mins,51 mins,20 mins,16 mins,10 mins,commuting,yes
+1195,778,t778,2.0,4.0,6.0,15 mins,51 mins,23 mins,15 mins,12 mins,leisure,yes
+1196,788,t788,4.0,7.0,11.0,12 mins,51 mins,21 mins,14 mins,15 mins,leisure,yes
+1197,808,t808,4.0,2.0,6.0,11 mins,51 mins,21 mins,16 mins,12 mins,commuting,yes
+1198,809,t809,4.0,2.0,6.0,11 mins,51 mins,22 mins,17 mins,12 mins,commuting,no
+1199,817,t817,4.0,4.0,8.0,15 mins,51 mins,22 mins,15 mins,12 mins,errand,yes
+1200,892,t892,7.0,5.0,12.0,13 mins,51 mins,18 mins,16 mins,11 mins,commuting,yes
+1201,893,t893,7.0,2.0,9.0,13 mins,51 mins,18 mins,16 mins,11 mins,leisure,no
+1202,1290,t1370,5.0,5.0,10.0,11 mins,51 mins,18 mins,14 mins,12 mins,leisure,yes
+1203,1298,t1378,5.0,2.0,7.0,11 mins,51 mins,21 mins,16 mins,10 mins,leisure,yes
+1204,1301,t1381,5.0,7.0,12.0,13 mins,51 mins,20 mins,16 mins,11 mins,commuting,yes
+1205,1336,t1416,2.0,2.0,4.0,11 mins,51 mins,22 mins,15 mins,10 mins,leisure,yes
+1206,1398,t1478,4.0,8.0,12.0,15 mins,51 mins,27 mins,15 mins,11 mins,leisure,yes
+1207,1413,t1493,4.0,2.0,6.0,14 mins,51 mins,23 mins,14 mins,11 mins,errand,no
+1208,1414,t1494,4.0,4.0,8.0,14 mins,51 mins,23 mins,15 mins,13 mins,commuting,yes
+1209,330,t330,7.0,2.0,9.0,12 mins,52 mins,21 mins,14 mins,15 mins,leisure,yes
+1210,434,t434,5.0,3.0,8.0,10 mins,52 mins,22 mins,16 mins,11 mins,errand,yes
+1211,523,t523,3.0,5.0,8.0,10 mins,52 mins,19 mins,16 mins,10 mins,leisure,yes
+1212,564,t564,2.0,2.0,4.0,12 mins,52 mins,27 mins,15 mins,12 mins,leisure,yes
+1213,649,t649,3.0,10.0,13.0,11 mins,52 mins,27 mins,15 mins,9 mins,commuting,yes
+1214,666,t666,5.0,4.0,9.0,13 mins,52 mins,29 mins,17 mins,11 mins,errand,no
+1215,676,t676,5.0,3.0,8.0,10 mins,52 mins,22 mins,14 mins,10 mins,errand,yes
+1216,749,t749,2.0,7.0,9.0,12 mins,52 mins,21 mins,14 mins,14 mins,leisure,no
+1217,775,t775,2.0,5.0,7.0,11 mins,52 mins,19 mins,16 mins,10 mins,commuting,yes
+1218,794,t794,4.0,2.0,6.0,13 mins,52 mins,22 mins,16 mins,12 mins,commuting,yes
+1219,831,t831,5.0,5.0,10.0,10 mins,52 mins,17 mins,18 mins,12 mins,commuting,no
+1220,847,t847,5.0,2.0,7.0,12 mins,52 mins,13 mins,17 mins,12 mins,leisure,no
+1221,855,t855,5.0,6.0,11.0,14 mins,52 mins,17 mins,16 mins,13 mins,errand,yes
+1222,1070,t1150,2.0,5.0,7.0,14 mins,52 mins,16 mins,13 mins,11 mins,leisure,yes
+1223,1108,t1188,2.0,5.0,7.0,14 mins,52 mins,16 mins,14 mins,11 mins,leisure,yes
+1224,1376,t1456,6.0,5.0,11.0,15 mins,52 mins,18 mins,15 mins,14 mins,leisure,no
+1225,125,t125,4.0,8.0,12.0,13 mins,53 mins,25 mins,15 mins,9 mins,commuting,yes
+1226,271,t271,8.0,4.0,12.0,16 mins,53 mins,33 mins,15 mins,16 mins,leisure,no
+1227,354,t354,8.0,4.0,12.0,13 mins,53 mins,24 mins,16 mins,10 mins,commuting,no
+1228,488,t488,5.0,5.0,10.0,10 mins,53 mins,16 mins,16 mins,13 mins,business,yes
+1229,648,t648,3.0,11.0,14.0,11 mins,53 mins,28 mins,14 mins,9 mins,commuting,yes
+1230,753,t753,2.0,5.0,7.0,11 mins,53 mins,16 mins,17 mins,14 mins,commuting,yes
+1231,755,t755,2.0,2.0,4.0,13 mins,53 mins,22 mins,16 mins,12 mins,errand,yes
+1232,777,t777,2.0,6.0,8.0,15 mins,53 mins,20 mins,16 mins,13 mins,leisure,yes
+1233,816,t816,4.0,6.0,10.0,15 mins,53 mins,19 mins,16 mins,13 mins,leisure,yes
+1234,848,t848,5.0,2.0,7.0,12 mins,53 mins,14 mins,18 mins,12 mins,commuting,no
+1235,875,t875,7.0,5.0,12.0,11 mins,53 mins,24 mins,18 mins,14 mins,commuting,yes
+1236,911,t911,6.0,2.0,8.0,10 mins,53 mins,27 mins,16 mins,11 mins,leisure,no
+1237,991,t991,11.0,3.0,14.0,9 mins,53 mins,31 mins,17 mins,8 mins,errand,no
+1238,1315,t1395,5.0,4.0,9.0,16 mins,53 mins,19 mins,14 mins,12 mins,business,yes
+1239,1359,t1439,6.0,8.0,14.0,15 mins,53 mins,22 mins,15 mins,12 mins,leisure,yes
+1240,1374,t1454,6.0,2.0,8.0,14 mins,53 mins,20 mins,15 mins,12 mins,business,yes
+1241,1375,t1455,6.0,4.0,10.0,14 mins,53 mins,19 mins,15 mins,14 mins,errand,yes
+1242,1400,t1480,4.0,8.0,12.0,15 mins,53 mins,26 mins,16 mins,16 mins,commuting,no
+1243,1429,t1509,4.0,5.0,9.0,15 mins,53 mins,23 mins,15 mins,12 mins,commuting,yes
+1244,198,t198,3.0,4.0,7.0,10 mins,54 mins,30 mins,15 mins,10 mins,leisure,yes
+1245,248,t248,8.0,6.0,14.0,13 mins,54 mins,40 mins,15 mins,15 mins,leisure,yes
+1246,287,t287,7.0,6.0,13.0,13 mins,54 mins,40 mins,15 mins,16 mins,leisure,no
+1247,464,t464,5.0,2.0,7.0,12 mins,54 mins,20 mins,14 mins,12 mins,leisure,no
+1248,486,t486,5.0,2.0,7.0,11 mins,54 mins,14 mins,17 mins,14 mins,errand,no
+1249,526,t526,3.0,4.0,7.0,11 mins,54 mins,14 mins,16 mins,12 mins,errand,yes
+1250,528,t528,3.0,7.0,10.0,10 mins,54 mins,14 mins,17 mins,10 mins,commuting,yes
+1251,567,t567,2.0,7.0,9.0,14 mins,54 mins,24 mins,15 mins,13 mins,errand,no
+1252,591,t591,6.0,8.0,14.0,14 mins,54 mins,42 mins,15 mins,15 mins,commuting,yes
+1253,592,t592,6.0,7.0,13.0,14 mins,54 mins,33 mins,15 mins,16 mins,leisure,yes
+1254,684,t684,5.0,7.0,12.0,11 mins,54 mins,25 mins,18 mins,13 mins,leisure,yes
+1255,793,t793,4.0,3.0,7.0,11 mins,54 mins,16 mins,15 mins,11 mins,leisure,yes
+1256,896,t896,7.0,7.0,14.0,14 mins,54 mins,17 mins,17 mins,14 mins,errand,no
+1257,950,t950,6.0,2.0,8.0,10 mins,54 mins,28 mins,16 mins,11 mins,leisure,no
+1258,1071,t1151,2.0,7.0,9.0,14 mins,54 mins,21 mins,14 mins,12 mins,errand,yes
+1259,1274,t1354,7.0,5.0,12.0,12 mins,54 mins,24 mins,15 mins,12 mins,errand,yes
+1260,1313,t1393,5.0,7.0,12.0,13 mins,54 mins,26 mins,15 mins,11 mins,leisure,yes
+1261,1328,t1408,2.0,5.0,7.0,11 mins,54 mins,19 mins,14 mins,13 mins,leisure,yes
+1262,1401,t1481,4.0,7.0,11.0,15 mins,54 mins,26 mins,17 mins,17 mins,errand,no
+1263,86,t86,6.0,8.0,14.0,13 mins,55 mins,23 mins,15 mins,11 mins,errand,yes
+1264,121,t121,4.0,3.0,7.0,10 mins,55 mins,31 mins,17 mins,10 mins,leisure,yes
+1265,197,t197,3.0,6.0,9.0,10 mins,55 mins,33 mins,15 mins,11 mins,commuting,no
+1266,232,t232,3.0,4.0,7.0,15 mins,55 mins,29 mins,15 mins,12 mins,commuting,yes
+1267,272,t272,8.0,7.0,15.0,16 mins,55 mins,29 mins,15 mins,16 mins,leisure,yes
+1268,310,t310,7.0,4.0,11.0,16 mins,55 mins,33 mins,15 mins,17 mins,leisure,yes
+1269,568,t568,2.0,6.0,8.0,11 mins,55 mins,23 mins,14 mins,10 mins,commuting,yes
+1270,569,t569,2.0,6.0,8.0,11 mins,55 mins,24 mins,15 mins,10 mins,leisure,no
+1271,721,t721,7.0,4.0,11.0,14 mins,55 mins,25 mins,20 mins,14 mins,leisure,yes
+1272,759,t759,2.0,7.0,9.0,15 mins,55 mins,24 mins,18 mins,14 mins,leisure,yes
+1273,798,t798,4.0,7.0,11.0,15 mins,55 mins,24 mins,19 mins,15 mins,leisure,yes
+1274,871,t871,7.0,3.0,10.0,10 mins,55 mins,15 mins,16 mins,10 mins,errand,no
+1275,872,t872,7.0,2.0,9.0,14 mins,55 mins,22 mins,16 mins,13 mins,errand,yes
+1276,886,t886,7.0,2.0,9.0,12 mins,55 mins,21 mins,17 mins,13 mins,commuting,no
+1277,887,t887,7.0,2.0,9.0,12 mins,55 mins,21 mins,18 mins,13 mins,commuting,no
+1278,1109,t1189,2.0,7.0,9.0,14 mins,55 mins,21 mins,14 mins,12 mins,commuting,yes
+1279,1276,t1356,7.0,6.0,13.0,15 mins,55 mins,28 mins,15 mins,13 mins,commuting,yes
+1280,1278,t1358,7.0,7.0,14.0,15 mins,55 mins,25 mins,15 mins,13 mins,errand,yes
+1281,1314,t1394,5.0,6.0,11.0,16 mins,55 mins,27 mins,17 mins,12 mins,commuting,yes
+1282,1389,t1469,6.0,7.0,13.0,14 mins,55 mins,29 mins,15 mins,12 mins,leisure,no
+1283,1390,t1470,6.0,5.0,11.0,15 mins,55 mins,17 mins,15 mins,12 mins,leisure,yes
+1284,1439,t1519,7.0,8.0,15.0,15 mins,55 mins,28 mins,14 mins,15 mins,commuting,yes
+1285,1455,t1535,7.0,7.0,14.0,15 mins,55 mins,17 mins,17 mins,14 mins,leisure,yes
+1286,1467,t1547,7.0,7.0,14.0,14 mins,55 mins,25 mins,14 mins,12 mins,commuting,yes
+1287,182,t182,8.0,6.0,14.0,15 mins,56 mins,36 mins,18 mins,14 mins,leisure,no
+1288,183,t183,8.0,6.0,14.0,15 mins,56 mins,36 mins,18 mins,14 mins,errand,yes
+1289,270,t270,8.0,6.0,14.0,16 mins,56 mins,33 mins,15 mins,16 mins,errand,yes
+1290,353,t353,8.0,6.0,14.0,13 mins,56 mins,26 mins,17 mins,11 mins,errand,yes
+1291,365,t365,8.0,6.0,14.0,14 mins,56 mins,37 mins,17 mins,16 mins,commuting,yes
+1292,594,t594,6.0,8.0,14.0,15 mins,56 mins,28 mins,15 mins,16 mins,leisure,yes
+1293,720,t720,7.0,2.0,9.0,14 mins,56 mins,25 mins,19 mins,13 mins,leisure,yes
+1294,792,t792,4.0,5.0,9.0,11 mins,56 mins,16 mins,18 mins,15 mins,commuting,yes
+1295,853,t853,5.0,5.0,10.0,13 mins,56 mins,17 mins,18 mins,13 mins,errand,yes
+1296,854,t854,5.0,2.0,7.0,13 mins,56 mins,18 mins,18 mins,13 mins,errand,yes
+1297,1300,t1380,5.0,5.0,10.0,13 mins,56 mins,19 mins,17 mins,12 mins,errand,yes
+1298,1338,t1418,2.0,5.0,7.0,13 mins,56 mins,20 mins,16 mins,12 mins,errand,yes
+1299,1353,t1433,2.0,4.0,6.0,16 mins,56 mins,22 mins,15 mins,13 mins,leisure,yes
+1300,1361,t1441,6.0,8.0,14.0,15 mins,56 mins,27 mins,15 mins,16 mins,commuting,yes
+1301,1430,t1510,4.0,2.0,6.0,15 mins,56 mins,23 mins,15 mins,13 mins,business,yes
+1302,82,t82,6.0,3.0,9.0,10 mins,57 mins,31 mins,17 mins,11 mins,leisure,yes
+1303,231,t231,3.0,6.0,9.0,15 mins,57 mins,27 mins,16 mins,13 mins,business,yes
+1304,244,t244,8.0,5.0,13.0,17 mins,57 mins,35 mins,18 mins,16 mins,errand,yes
+1305,311,t311,7.0,7.0,14.0,16 mins,57 mins,29 mins,16 mins,16 mins,commuting,yes
+1306,435,t435,5.0,8.0,13.0,16 mins,57 mins,32 mins,16 mins,16 mins,leisure,yes
+1307,487,t487,5.0,4.0,9.0,11 mins,57 mins,14 mins,18 mins,15 mins,commuting,yes
+1308,489,t489,5.0,7.0,12.0,10 mins,57 mins,13 mins,19 mins,14 mins,leisure,yes
+1309,857,t857,5.0,7.0,12.0,14 mins,57 mins,16 mins,18 mins,15 mins,commuting,yes
+1310,870,t870,7.0,5.0,12.0,10 mins,57 mins,15 mins,18 mins,14 mins,errand,yes
+1311,1015,t1095,6.0,8.0,14.0,15 mins,57 mins,34 mins,20 mins,14 mins,leisure,yes
+1312,1275,t1355,7.0,2.0,9.0,12 mins,57 mins,24 mins,16 mins,12 mins,errand,yes
+1313,1351,t1431,2.0,7.0,9.0,13 mins,57 mins,29 mins,16 mins,12 mins,errand,yes
+1314,1362,t1442,6.0,7.0,13.0,15 mins,57 mins,28 mins,16 mins,17 mins,business,no
+1315,1399,t1479,4.0,3.0,7.0,15 mins,57 mins,33 mins,18 mins,13 mins,commuting,yes
+1316,1440,t1520,7.0,7.0,14.0,15 mins,57 mins,29 mins,15 mins,16 mins,leisure,no
+1317,25,t25,6.0,10.0,16.0,14 mins,58 mins,23 mins,17 mins,14 mins,leisure,yes
+1318,194,t194,8.0,7.0,15.0,15 mins,58 mins,24 mins,18 mins,14 mins,leisure,yes
+1319,309,t309,7.0,6.0,13.0,16 mins,58 mins,33 mins,16 mins,17 mins,leisure,yes
+1320,396,t396,6.0,8.0,14.0,16 mins,58 mins,29 mins,19 mins,19 mins,commuting,yes
+1321,423,t423,6.0,7.0,13.0,14 mins,58 mins,34 mins,17 mins,14 mins,leisure,yes
+1322,436,t436,5.0,7.0,12.0,16 mins,58 mins,32 mins,16 mins,17 mins,leisure,yes
+1323,1237,t1317,6.0,6.0,12.0,15 mins,58 mins,22 mins,15 mins,11 mins,leisure,yes
+1324,1239,t1319,6.0,7.0,13.0,15 mins,58 mins,25 mins,14 mins,12 mins,leisure,yes
+1325,1250,t1330,7.0,6.0,13.0,14 mins,58 mins,32 mins,19 mins,14 mins,errand,yes
+1326,1352,t1432,2.0,6.0,8.0,16 mins,58 mins,28 mins,18 mins,13 mins,leisure,yes
+1327,1388,t1468,6.0,6.0,12.0,14 mins,58 mins,24 mins,15 mins,12 mins,leisure,yes
+1328,1391,t1471,6.0,2.0,8.0,15 mins,58 mins,18 mins,16 mins,13 mins,commuting,yes
+1329,1454,t1534,7.0,5.0,12.0,15 mins,58 mins,16 mins,18 mins,16 mins,errand,no
+1330,1466,t1546,7.0,6.0,13.0,14 mins,58 mins,24 mins,15 mins,11 mins,leisure,yes
+1331,24,t24,6.0,11.0,17.0,14 mins,59 mins,23 mins,16 mins,14 mins,errand,yes
+1332,243,t243,8.0,6.0,14.0,17 mins,59 mins,32 mins,18 mins,19 mins,leisure,yes
+1333,283,t283,7.0,5.0,12.0,17 mins,59 mins,35 mins,18 mins,17 mins,leisure,yes
+1334,533,t533,3.0,6.0,9.0,10 mins,59 mins,22 mins,16 mins,11 mins,leisure,yes
+1335,534,t534,3.0,6.0,9.0,10 mins,59 mins,22 mins,16 mins,11 mins,commuting,yes
+1336,575,t575,2.0,2.0,4.0,9 mins,59 mins,40 mins,23 mins,9 mins,errand,yes
+1337,779,t779,2.0,7.0,9.0,15 mins,59 mins,18 mins,18 mins,14 mins,errand,yes
+1338,818,t818,4.0,7.0,11.0,15 mins,59 mins,18 mins,18 mins,14 mins,commuting,yes
+1339,975,t975,11.0,6.0,17.0,14 mins,59 mins,24 mins,20 mins,13 mins,leisure,yes
+1340,1024,t1104,6.0,3.0,9.0,9 mins,59 mins,26 mins,18 mins,13 mins,leisure,yes
+1341,1063,t1143,2.0,2.0,4.0,10 mins,59 mins,44 mins,17 mins,9 mins,errand,yes
+1342,1101,t1181,2.0,2.0,4.0,10 mins,59 mins,44 mins,16 mins,9 mins,leisure,no
+1343,1360,t1440,6.0,3.0,9.0,15 mins,59 mins,24 mins,19 mins,13 mins,business,yes
+1344,1437,t1517,7.0,8.0,15.0,15 mins,59 mins,21 mins,18 mins,14 mins,commuting,yes
+1345,1453,t1533,7.0,4.0,11.0,14 mins,59 mins,18 mins,18 mins,15 mins,commuting,no
